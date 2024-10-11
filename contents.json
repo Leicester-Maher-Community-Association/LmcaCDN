@@ -1,5 +1,12 @@
 {
-  "members": [
+  "homeScreen": [
+    {
+      "heading": "Leicester Maher Community Association",
+      "sub-heading": "Digitally connecting Mahers in UK",
+      "content": ""
+    }
+  ],
+  "committeeMembers": [
     {
       "name": "Sanjay Karavadra",
       "position": "President",
@@ -101,8 +108,7 @@
       "icon": "face-man"
     }
   ],
-
-  "trustees": [
+  "holdingTrustees": [
     {
       "name": "Arjan Hardas Keshwala",
       "position": "Holding Trustee",
@@ -127,6 +133,64 @@
       "name": "Nagajun Rambhai Odedra",
       "position": "Holding Trustee",
       "icon": "face-man"
+    }
+  ],
+  "newsScreen": [
+    {
+      "heading": "News",
+      "sub-heading": "All of the latest LMCA news, MCA news, death notifications, religious announcements etc, are in one place."
+    }
+  ],
+  "eventsScreen": [
+    {
+      "heading": "Events",
+      "sub-heading": "All of the latest LMCA events, MCA events, religious notifications, cultural announcements etc, are in one place."
+    }
+  ],
+  "inquiryScreen": [
+    {
+      "heading": "Inquiry",
+      "sub-heading": "Send your inquiries for centre hire, sports events, religious activities, cultural classes, etc.",
+      "name": "Name",
+      "phoneNumber": "Phone Number *",
+      "emailAddress": "Email Address *",
+      "subject": "Subject *",
+      "message": "Message *",
+      "button": "Send"
+    }
+  ],
+  "activityScreen": [
+    {
+      "heading": "Activity",
+      "sub-heading": "All the frequent activities in one place."
+    }
+  ],
+  "feedbackScreen": [
+    {
+      "heading": "Feedback",
+      "sub-heading": "Help Us Improve",
+      "text": "We value your feedback. Tell us what you think of our community app! What is good? What could be better? Please share your thoughts; your ideas can make a difference.",
+      "name": "Name",
+      "phoneNumber": "Phone Number *",
+      "emailAddress": "Email Address *",
+      "message": "Message *",
+      "button": "Send"
+    }
+  ],
+  "faqScreen": [
+    {
+      "heading": "FAQ",
+      "sub-heading": "List of questions and answers intended to help with your queries."
+    }
+  ],
+  "contactScreen": [
+    {
+      "heading": "Contact",
+      "name": "Maher Centre",
+      "address": "15 Ravensbridge Drive, Leicester, LE4 0BZ",
+      "phone": "0116 242 5360",
+      "email": "info@mahercentre.com",
+      "site": "https://mahercommunity.org/"
     }
   ]
 }
