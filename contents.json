@@ -1,11 +1,4 @@
 {
-  "homeScreen": [
-    {
-      "heading": "Leicester Maher Community Association",
-      "sub-heading": "Digitally connecting Mahers in UK",
-      "content": "Leicester Maher Community Association (UK) was founded in 1990. The aim of LMCA was to unite the Maher Community and promote and preserve our culture, heritage, language, and social and cultural awareness. Our goal is to invest in the next generation—our youth—and build a strong community. As we enter the new era, we want to lead our community to new services, embrace technology, and allow our youth to participate with excitement and enthusiasm who will proudly continue to carry our heritage. We encourage each Maher family to engage by becoming a member, participating in our activities, and helping us grow to build a stronger community."
-    }
-  ],
   "committeeMembers": [
     {
       "name": "Sanjay Karavadra",
@@ -135,62 +128,61 @@
       "icon": "face-man"
     }
   ],
-  "newsScreen": [
-    {
+  "pages": {
+    "home": {
+      "heading": "Leicester Maher\n Community Association",
+      "subheading": "Digitally connecting Mahers in UK",
+      "content": "Leicester Maher Community Association (UK) was founded in 1990. The aim of LMCA was to unite the Maher Community and promote and preserve our culture, heritage, language, and social and cultural awareness.\n\nOur goal is to invest in the next generation—our youth—and build a strong community. As we enter the new era, we want to lead our community to new services, embrace technology, and allow our youth to participate with excitement and enthusiasm who will proudly continue to carry our heritage.\n\nWe encourage each Maher family to engage by becoming a member, participating in our activities, and helping us grow to build a stronger community."
+    },
+    "news": {
       "heading": "News",
-      "sub-heading": "All of the latest LMCA news, MCA news, death notifications, religious announcements etc, are in one place."
-    }
-  ],
-  "eventsScreen": [
-    {
+      "subheading": "All of the latest LMCA news, MCA news, death notifications, religious announcements etc, are in one place."
+    },
+    "events": {
       "heading": "Events",
-      "sub-heading": "All of the latest LMCA events, MCA events, religious notifications, cultural announcements etc, are in one place."
-    }
-  ],
-  "inquiryScreen": [
-    {
+      "subheading": "All of the latest LMCA events, MCA events, religious notifications, cultural announcements etc, are in one place."
+    },
+    "inquiry": {
       "heading": "Inquiry",
-      "sub-heading": "Send your inquiries for centre hire, sports events, religious activities, cultural classes, etc.",
+      "subheading": "Send your inquiries for centre hire, sports events, religious activities, cultural classes, etc.",
       "name": "Name",
       "phoneNumber": "Phone Number *",
       "emailAddress": "Email Address *",
       "subject": "Subject *",
       "message": "Message *",
-      "button": "Send"
-    }
-  ],
-  "activityScreen": [
-    {
+      "button": "Send",
+      "missingField": "Name, Subject, Phone Number, Email Address & Message can not be empty",
+      "invalidEmailAddress": "Email Address is not valid",
+      "successMsg": "Request sent to LMCA"
+    },
+    "activity": {
       "heading": "Activity",
-      "sub-heading": "All the frequent activities in one place."
-    }
-  ],
-  "feedbackScreen": [
-    {
+      "subheading": "All the frequent activities in one place."
+    },
+    "feedback": {
       "heading": "Feedback",
-      "sub-heading": "Help Us Improve",
+      "subheading": "Help Us Improve",
       "text": "We value your feedback. Let us know what you think of our community app! What is good? What could be better? Please share your thoughts; your ideas can make a difference.",
       "name": "Name",
       "phoneNumber": "Phone Number *",
       "emailAddress": "Email Address *",
       "message": "Message *",
-      "button": "Send"
-    }
-  ],
-  "faqScreen": [
-    {
+      "button": "Send",
+      "missingField": "Name, Phone Number, Email Address or Message can not be empty",
+      "invalidEmailAddress": "Email Address is not valid",
+      "successMsg": "Thank you for helping us improve our service, request sent to LMCA"
+    },
+    "faq": {
       "heading": "FAQ",
-      "sub-heading": "List of questions and answers intended to help with your queries."
-    }
-  ],
-  "contactScreen": [
-    {
+      "subheading": "List of questions and answers intended to help with your queries."
+    },
+    "contact": {
       "heading": "Contact",
       "name": "Maher Centre",
-      "address": "15 Ravensbridge Drive, Leicester, LE4 0BZ",
+      "address": "15 Ravensbridge Drive,\n Leicester,\n LE4 0BZ",
       "phone": "0116 242 5360",
       "email": "info@mahercentre.com",
-      "site": "https://mahercommunity.org/"
+      "website": "https://mahercommunity.org/"
     }
-  ]
+  }
 }
