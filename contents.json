@@ -184,6 +184,10 @@
       "email": "info@mahercentre.com",
       "website": "https://mahercommunity.org/"
     },
+    "request": {
+    "heading": "Request Forms",
+    "subheading": "All of the request forms used by Maher Centre",
     "forms": [{ "title": "Maher Girl Raas Register", "url": "https://forms.gle/b4eynKfrTD1xUy3g9" }]
   }
+}
 }
