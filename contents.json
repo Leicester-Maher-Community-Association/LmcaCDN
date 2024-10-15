@@ -187,7 +187,10 @@
     "request": {
     "heading": "Request Forms",
     "subheading": "All of the request forms used by Maher Centre",
-    "forms": [{ "title": "Maher Girl Raas Register", "url": "https://forms.gle/b4eynKfrTD1xUy3g9" }]
+    "forms": [
+      { "title": "Maher Girl Raas Register", "url": "https://forms.gle/b4eynKfrTD1xUy3g9" }
+      { "title": "Maher Girl Raas Register", "url": "https://forms.gle/b4eynKfrTD1xUy3g9" }
+      ]
+    }
   }
-}
 }
