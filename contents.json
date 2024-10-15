@@ -1,196 +1,202 @@
 {
-  "committeeMembers": [
-    {
-      "name": "Sanjay Karavadra",
-      "position": "President",
-      "icon": "face-man"
-    },
-    {
-      "name": "Parbat Keshav Sanga",
-      "position": "Vice President",
-      "icon": "face-man"
-    },
-    {
-      "name": "Chetna Pratap Ranavaya",
-      "position": "Treasurer / Culture",
-      "icon": "face-woman"
-    },
-    {
-      "name": "Harish Sajan Keshwala",
-      "position": "Vice Treasurer",
-      "icon": "face-man"
-    },
-    {
-      "name": "Bharat Arjan Keshwala",
-      "position": "Secretary",
-      "icon": "face-man"
-    },
-    {
-      "name": "Davan Karsan Modhwadia",
-      "position": "Vice Secretary",
-      "icon": "face-man"
-    },
-    {
-      "name": "Nikhil Malde Keshwala",
-      "position": "Sports / Technology",
-      "icon": "face-man"
-    },
-    {
-      "name": "Akash Nagaji Odedra",
-      "position": "Youth",
-      "icon": "face-man"
-    },
-    {
-      "name": "Ashok Bhura Karavadra",
-      "position": "Events",
-      "icon": "face-man"
-    },
-    {
-      "name": "Atul Parbat Modhvadiya",
-      "position": "Events",
-      "icon": "face-man"
-    },
-    {
-      "name": "Bhanu Ramde Goraniya",
-      "position": "Culture",
-      "icon": "face-woman"
-    },
-    {
-      "name": "Hitesh Kana Godhaniya",
-      "position": "Sports / Culture",
-      "icon": "face-man"
-    },
-    {
-      "name": "Karan Deva Odedra",
-      "position": "Youth",
-      "icon": "face-man"
-    },
-    {
-      "name": "Kishor Devshi Karavadra",
-      "position": "Sports / Maintenance",
-      "icon": "face-man"
-    },
-    {
-      "name": "Lakhanbhai R Karavadra",
-      "position": "Youth / Maintenance",
-      "icon": "face-man"
-    },
-    {
-      "name": "Lakhansi Karshan Khunti",
-      "position": "Maintenance",
-      "icon": "face-man"
-    },
-    {
-      "name": "Niraj Vinod Modhwadia",
-      "position": "Car Park",
-      "icon": "face-man"
-    },
-    {
-      "name": "Pratap Arjan Keshwala",
-      "position": "Car Park",
-      "icon": "face-man"
-    },
-    {
-      "name": "Ram Modhwadia",
-      "position": "Culture",
-      "icon": "face-man"
-    },
-    {
-      "name": "Rambhai Rajshi Modhwadia",
-      "position": "Events",
-      "icon": "face-man"
-    }
-  ],
-  "holdingTrustees": [
-    {
-      "name": "Arjan Hardas Keshwala",
-      "position": "Holding Trustee",
-      "icon": "face-man"
-    },
-    {
-      "name": "Devshi Arjan Odedra",
-      "position": "Holding Trustee",
-      "icon": "face-man"
-    },
-    {
-      "name": "Arjun Atul Odedra",
-      "position": "Holding Trustee",
-      "icon": "face-man"
-    },
-    {
-      "name": "Laxman Parbat Modhvadiya",
-      "position": "Holding Trustee",
-      "icon": "face-man"
-    },
-    {
-      "name": "Nagajun Rambhai Odedra",
-      "position": "Holding Trustee",
-      "icon": "face-man"
-    }
-  ],
-  "pages": {
-    "home": {
-      "heading": "Leicester Maher\n Community Association",
-      "subheading": "Digitally connecting Mahers in UK",
-      "content": "Leicester Maher Community Association (UK) was founded in 1990. The aim of LMCA was to unite the Maher Community and promote and preserve our culture, heritage, language, and social and cultural awareness.\n\nOur goal is to invest in the next generation—our youth—and build a strong community. As we enter the new era, we want to lead our community to new services, embrace technology, and allow our youth to participate with excitement and enthusiasm who will proudly continue to carry our heritage.\n\nWe encourage each Maher family to engage by becoming a member, participating in our activities, and helping us grow to build a stronger community."
-    },
-    "news": {
-      "heading": "News",
-      "subheading": "All of the latest LMCA news, MCA news, death notifications, religious announcements etc, are in one place."
-    },
-    "events": {
-      "heading": "Events",
-      "subheading": "All of the latest LMCA events, MCA events, religious notifications, cultural announcements etc, are in one place."
-    },
-    "inquiry": {
-      "heading": "Inquiry",
-      "subheading": "Send your inquiries for centre hire, sports events, religious activities, cultural classes, etc.",
-      "name": "Name",
-      "phoneNumber": "Phone Number *",
-      "emailAddress": "Email Address *",
-      "subject": "Subject *",
-      "message": "Message *",
-      "button": "Send",
-      "missingField": "Name, Subject, Phone Number, Email Address & Message can not be empty",
-      "invalidEmailAddress": "Email Address is not valid",
-      "successMsg": "Request sent to LMCA"
-    },
-    "activity": {
-      "heading": "Activity",
-      "subheading": "All the frequent activities in one place."
-    },
-    "feedback": {
-      "heading": "Feedback",
-      "subheading": "Help Us Improve",
-      "text": "We value your feedback. Let us know what you think of our community app! What is good? What could be better? Please share your thoughts; your ideas can make a difference.",
-      "name": "Name",
-      "phoneNumber": "Phone Number *",
-      "emailAddress": "Email Address *",
-      "message": "Message *",
-      "button": "Send",
-      "missingField": "Name, Phone Number, Email Address or Message can not be empty",
-      "invalidEmailAddress": "Email Address is not valid",
-      "successMsg": "Thank you for helping us improve our service, request sent to LMCA"
-    },
-    "faq": {
-      "heading": "FAQ",
-      "subheading": "List of questions and answers intended to help with your queries."
-    },
-    "contact": {
-      "heading": "Contact",
-      "name": "Maher Centre",
-      "address": "15 Ravensbridge Drive,\n Leicester,\n LE4 0BZ",
-      "phone": "0116 242 5360",
-      "email": "info@mahercentre.com",
-      "website": "https://mahercommunity.org/"
-    },
-    "request": {
-    "heading": "Request Forms",
-    "subheading": "All of the request forms used by Maher Centre",
-    "forms": [
-      { "title": "Maher Girl Raas Register", "url": "https://forms.gle/b4eynKfrTD1xUy3g9" }
-      { "title": "Maher Girl Raas Register", "url": "https://forms.gle/b4eynKfrTD1xUy3g9" }
-      ]
-    }
-  }
+   "committeeMembers":[
+      {
+         "name":"Sanjay Karavadra",
+         "position":"President",
+         "icon":"face-man"
+      },
+      {
+         "name":"Parbat Keshav Sanga",
+         "position":"Vice President",
+         "icon":"face-man"
+      },
+      {
+         "name":"Chetna Pratap Ranavaya",
+         "position":"Treasurer / Culture",
+         "icon":"face-woman"
+      },
+      {
+         "name":"Harish Sajan Keshwala",
+         "position":"Vice Treasurer",
+         "icon":"face-man"
+      },
+      {
+         "name":"Bharat Arjan Keshwala",
+         "position":"Secretary",
+         "icon":"face-man"
+      },
+      {
+         "name":"Davan Karsan Modhwadia",
+         "position":"Vice Secretary",
+         "icon":"face-man"
+      },
+      {
+         "name":"Nikhil Malde Keshwala",
+         "position":"Sports / Technology",
+         "icon":"face-man"
+      },
+      {
+         "name":"Akash Nagaji Odedra",
+         "position":"Youth",
+         "icon":"face-man"
+      },
+      {
+         "name":"Ashok Bhura Karavadra",
+         "position":"Events",
+         "icon":"face-man"
+      },
+      {
+         "name":"Atul Parbat Modhvadiya",
+         "position":"Events",
+         "icon":"face-man"
+      },
+      {
+         "name":"Bhanu Ramde Goraniya",
+         "position":"Culture",
+         "icon":"face-woman"
+      },
+      {
+         "name":"Hitesh Kana Godhaniya",
+         "position":"Sports / Culture",
+         "icon":"face-man"
+      },
+      {
+         "name":"Karan Deva Odedra",
+         "position":"Youth",
+         "icon":"face-man"
+      },
+      {
+         "name":"Kishor Devshi Karavadra",
+         "position":"Sports / Maintenance",
+         "icon":"face-man"
+      },
+      {
+         "name":"Lakhanbhai R Karavadra",
+         "position":"Youth / Maintenance",
+         "icon":"face-man"
+      },
+      {
+         "name":"Lakhansi Karshan Khunti",
+         "position":"Maintenance",
+         "icon":"face-man"
+      },
+      {
+         "name":"Niraj Vinod Modhwadia",
+         "position":"Car Park",
+         "icon":"face-man"
+      },
+      {
+         "name":"Pratap Arjan Keshwala",
+         "position":"Car Park",
+         "icon":"face-man"
+      },
+      {
+         "name":"Ram Modhwadia",
+         "position":"Culture",
+         "icon":"face-man"
+      },
+      {
+         "name":"Rambhai Rajshi Modhwadia",
+         "position":"Events",
+         "icon":"face-man"
+      }
+   ],
+   "holdingTrustees":[
+      {
+         "name":"Arjan Hardas Keshwala",
+         "position":"Holding Trustee",
+         "icon":"face-man"
+      },
+      {
+         "name":"Devshi Arjan Odedra",
+         "position":"Holding Trustee",
+         "icon":"face-man"
+      },
+      {
+         "name":"Arjun Atul Odedra",
+         "position":"Holding Trustee",
+         "icon":"face-man"
+      },
+      {
+         "name":"Laxman Parbat Modhvadiya",
+         "position":"Holding Trustee",
+         "icon":"face-man"
+      },
+      {
+         "name":"Nagajun Rambhai Odedra",
+         "position":"Holding Trustee",
+         "icon":"face-man"
+      }
+   ],
+   "pages":{
+      "home":{
+         "heading":"Leicester Maher\n Community Association",
+         "subheading":"Digitally connecting Mahers in UK",
+         "content":"Leicester Maher Community Association (UK) was founded in 1990. The aim of LMCA was to unite the Maher Community and promote and preserve our culture, heritage, language, and social and cultural awareness.\n\nOur goal is to invest in the next generation—our youth—and build a strong community. As we enter the new era, we want to lead our community to new services, embrace technology, and allow our youth to participate with excitement and enthusiasm who will proudly continue to carry our heritage.\n\nWe encourage each Maher family to engage by becoming a member, participating in our activities, and helping us grow to build a stronger community."
+      },
+      "news":{
+         "heading":"News",
+         "subheading":"All of the latest LMCA news, MCA news, death notifications, religious announcements etc, are in one place."
+      },
+      "events":{
+         "heading":"Events",
+         "subheading":"All of the latest LMCA events, MCA events, religious notifications, cultural announcements etc, are in one place."
+      },
+      "inquiry":{
+         "heading":"Inquiry",
+         "subheading":"Send your inquiries for centre hire, sports events, religious activities, cultural classes, etc.",
+         "name":"Name",
+         "phoneNumber":"Phone Number *",
+         "emailAddress":"Email Address *",
+         "subject":"Subject *",
+         "message":"Message *",
+         "button":"Send",
+         "missingField":"Name, Subject, Phone Number, Email Address & Message can not be empty",
+         "invalidEmailAddress":"Email Address is not valid",
+         "successMsg":"Request sent to LMCA"
+      },
+      "activity":{
+         "heading":"Activity",
+         "subheading":"All the frequent activities in one place."
+      },
+      "feedback":{
+         "heading":"Feedback",
+         "subheading":"Help Us Improve",
+         "text":"We value your feedback. Let us know what you think of our community app! What is good? What could be better? Please share your thoughts; your ideas can make a difference.",
+         "name":"Name",
+         "phoneNumber":"Phone Number *",
+         "emailAddress":"Email Address *",
+         "message":"Message *",
+         "button":"Send",
+         "missingField":"Name, Phone Number, Email Address or Message can not be empty",
+         "invalidEmailAddress":"Email Address is not valid",
+         "successMsg":"Thank you for helping us improve our service, request sent to LMCA"
+      },
+      "faq":{
+         "heading":"FAQ",
+         "subheading":"List of questions and answers intended to help with your queries."
+      },
+      "contact":{
+         "heading":"Contact",
+         "name":"Maher Centre",
+         "address":"15 Ravensbridge Drive,\n Leicester,\n LE4 0BZ",
+         "phone":"0116 242 5360",
+         "email":"info@mahercentre.com",
+         "website":"https://mahercommunity.org/"
+      },
+      "request":{
+         "heading":"Request Forms",
+         "subheading":"All of the request forms used by Maher Centre",
+         "forms":[
+            {
+               "title":"Maher Girl Raas Register",
+               "url":"https://forms.gle/b4eynKfrTD1xUy3g9"
+            },
+            {
+               "title":"Maher Girl Raas Register",
+               "url":"https://forms.gle/b4eynKfrTD1xUy3g9"
+            }
+         ]
+      }
+   }
 }
