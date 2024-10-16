@@ -195,31 +195,30 @@
          ]
       },
       "surnames":{
-         "heading": "Surnames",
-  "text": "Surnames are very important in the Maher community, and each surname has a long and distinctive history.\n\nOur Maher community has 14 main surnames: Keshwala, Sisodia, Rajsakha, Odedra, Jadeja, Solanki, Parmar, Vadher, Vada, Chavda, Chohan, Vadar, Pathiar, and Vagh.\n\nSeveral sub-surnames exist within these main surnames. Here is the list of full surnames and sub-surnames known as the 'Bhaiyatas' brotherhood.",
-  "surnames": [
-    {
-      "surname": "Keshwala",
-      "bhaiyat": "Antrolia, Bheynia, Ratadia, Butta, Erda, Bagordara",
-      "gotra": "Kashyap",
-      "vansh": "Suryavanshi",
-      "ishtadev": "Ramchandra",
-      "kuldevi": "Khodiyar Mataji / Shri Vindhyavasini Aai",
-      "gor": "Girnara Brahmin",
-      "barot": "Sonrat"
-    },
-    {
-      "surname": "Sisodia",
-      "bhaiyat": "Modhwadia, Kuchhadia, Khistriya, Godhania, Ranavaya, Hadadiya, Pashtariya",
-      "gotra": "Kashyap",
-      "vansh": "Suryavanshi",
-      "ishtadev": "Ramchandra",
-      "kuldevi": "Shri Vindhyavasini Aai / Shri Chamundai / Shri Gatran Aai / Shri Sikotar Aai",
-      "gor": "Thanki Brahmin",
-      "barot": "Rehnuka"
-    }
-  ]
+         "heading":"Surnames",
+         "text":"Surnames are very important in the Maher community, and each surname has a long and distinctive history.\n\nOur Maher community has 14 main surnames: Keshwala, Sisodia, Rajsakha, Odedra, Jadeja, Solanki, Parmar, Vadher, Vada, Chavda, Chohan, Vadar, Pathiar, and Vagh.\n\nSeveral sub-surnames exist within these main surnames. Here is the list of full surnames and sub-surnames known as the 'Bhaiyatas' brotherhood.",
+         "surnames":[
+            {
+               "surname":"Keshwala",
+               "bhaiyat":"Antrolia, Bheynia, Ratadia, Butta, Erda, Bagordara",
+               "gotra":"Kashyap",
+               "vansh":"Suryavanshi",
+               "ishtadev":"Ramchandra",
+               "kuldevi":"Khodiyar Mataji / Shri Vindhyavasini Aai",
+               "gor":"Girnara Brahmin",
+               "barot":"Sonrat"
+            },
+            {
+               "surname":"Sisodia",
+               "bhaiyat":"Modhwadia, Kuchhadia, Khistriya, Godhania, Ranavaya, Hadadiya, Pashtariya",
+               "gotra":"Kashyap",
+               "vansh":"Suryavanshi",
+               "ishtadev":"Ramchandra",
+               "kuldevi":"Shri Vindhyavasini Aai / Shri Chamundai / Shri Gatran Aai / Shri Sikotar Aai",
+               "gor":"Thanki Brahmin",
+               "barot":"Rehnuka"
+            }
+         ]
       }
-      
    }
 }
