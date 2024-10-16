@@ -145,7 +145,7 @@
       "inquiry":{
          "heading":"Inquiry",
          "subheading":"Inquiries for centre hire, sports events, religious activities, cultural classes, etc.",
-         "name":"Name",
+         "name":"Name *",
          "phoneNumber":"Phone Number *",
          "emailAddress":"Email Address *",
          "subject":"Subject *",
@@ -163,7 +163,7 @@
          "heading":"Feedback",
          "subheading":"Help Us Improve",
          "text":"We value your feedback. Let us know what you think of our community app! What is good? What could be better? Please share your thoughts; your ideas can make a difference.",
-         "name":"Name",
+         "name":"Name *",
          "phoneNumber":"Phone Number *",
          "emailAddress":"Email Address *",
          "message":"Message *",
