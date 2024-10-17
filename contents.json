@@ -223,6 +223,136 @@
                "kuldevi":"Shri Vindhyavasini Aai / Shri Chamundai / Shri Gatran Aai / Shri Sikotar Aai",
                "gor":"Thanki Brahmin",
                "barot":"Rehnuka"
+            },
+            {
+               "surname":"Rajsakha",
+               "bhaiyat":"Karavadra, Khunti, Tilak, Gorania, Chundavadra, Jethwa, Surya, Jog, Modedra, Selot, Selar, Pariya, Bhosiya, Bokhiria",
+               "gotra":"Aashtang",
+               "vansh":"Suryavanshi",
+               "ishtadev":"Shri Hanumanji",
+               "kuldevi":"Shri Vindhyavasini Aai / Shri Chamundai",
+               "gor":"Joshi Brahmin",
+               "barot":"Brahbhat"
+            },
+            {
+               "surname":"Odedra",
+               "bhaiyat":"Visana, Ji, Okhai, Tukadiya",
+               "gotra":"Kashyap",
+               "vansh":"Chandravanshi",
+               "ishtadev":"Gorakhnath Vacharadada, Patha Pir",
+               "kuldevi":"Shri Sikoter Mataji / Chamunda/ Balvi",
+               "gor":"Joshi Brahmin",
+               "barot":"Sonrat"
+            },
+            {
+               "surname":"Jadeja",
+               "bhaiyat":"Kadchha, Ratiya, Tarkhala, Kadegiya, Pipraniya, Mekhadiya, Kulranmiya",
+               "gotra":"Atri Samved",
+               "vansh":"Chandravanshi",
+               "ishtadev":"Ashapuri",
+               "kuldevi":"Ambaji /  Kandhali Aai / Ashapura Ma",
+               "gor":"Girnara Brahmin",
+               "barot":"Lagdhir"
+            },
+            {
+               "surname":"Vaghela",
+               "bhaiyat":"Solanki, Timba, Samja, Vadaliya, Jakhniya, Bhanvadiya, Chabhhad, Divraniya, Bhogesra, Juneja, Gariyana, Sida, Chhaya",
+               "gotra":"Atri",
+               "vansh":"Agnivanshi",
+               "ishtadev":"Vacharadada",
+               "kuldevi":"Shri Shikoter Mataji",
+               "gor":"Joshi Brahmin",
+               "barot":"Brahbhat"
+            },
+            {
+               "surname":"Parmar",
+               "bhaiyat":"Mahiyaria, Chatraviya, Liboriya, Kahaliya, Kotadiya, Jilaniya, Mosa, Mandera, Pata, Gorsera, Badeja, Chandela",
+               "gotra":"Gautam Rushi",
+               "vansh":"Agnivanshi",
+               "ishtadev":"",
+               "kuldevi":"Simiyar - Mandvari / Shri Maha Kali / Shri Mandavadi Aai",
+               "gor":"Girnara Brahmin",
+               "barot":"Sonrat"
+            },
+            {
+               "surname":"Vadher/ Rathod",
+               "bhaiyat":"Sharma, Sutreja, Sindhal, Padodariya, Chandesha, Dasa, Pandavadariya, Chanrodariya, Mahikya",
+               "gotra":"Kashyap",
+               "vansh":"Suryavanshi",
+               "ishtadev":"",
+               "kuldevi":"Shri Khodiyar Aai / Shri Gatran Aai",
+               "gor":"Girnara Brahmin",
+               "barot":"Sonrat"
+            },
+            {
+               "surname":"Vada",
+               "bhaiyat":"Muliyashiya, Khimdaniya, Bapodra-(Mashani) Amar, Agath, Mihikiya, Timmasiya, Bhetakiya",
+               "gotra":"Kashyap",
+               "vansh":"Suryavanshi",
+               "ishtadev":"",
+               "kuldevi":"Visant Mataji / Shri Vindhyavasini Aai / Chamunda Mataji / Vihot Mataji",
+               "gor":"Joshi Brahmin",
+               "barot":"Brahbhat"
+            },
+            {
+               "surname":"Chavda",
+               "bhaiyat":"Navadiya, Kothvada, Kothadiya, Padorodiya, Kodvara",
+               "gotra":"Kashyap",
+               "vansh":"Suryavanshi",
+               "ishtadev":"",
+               "kuldevi":"Shri Shikoter Mataji",
+               "gor":"Joshi Brahmin",
+               "barot":"Brahbhat"
+            },
+            {
+               "surname":"Chauhan",
+               "bhaiyat":"Gareja",
+               "gotra":"",
+               "vansh":"Agnivashi",
+               "ishtadev":"",
+               "kuldevi":"Shapurna Mataji / Shri Chamuda Mataji",
+               "gor":"Joshi Brahmin",
+               "barot":"Brahbhat"
+            },
+            {
+               "surname":"Vadar",
+               "bhaiyat":"Nandaniya, Nakura, Badhsa, Hilla, Jasiya, Bamaniya",
+               "gotra":"",
+               "vansh":"Chandravanshi",
+               "ishtadev":"",
+               "kuldevi":"Shri Chamuda Mataji",
+               "gor":"Joshi Brahmin",
+               "barot":"Brahbhat"
+            },
+            {
+               "surname":"Parihar",
+               "bhaiyat":"Thapaliya",
+               "gotra":"",
+               "vansh":"Agnivashi",
+               "ishtadev":"",
+               "kuldevi":"Shri Chamuda Mataji",
+               "gor":"Joshi Brahmin",
+               "barot":"Sonrat"
+            },
+            {
+               "surname":"Vagh",
+               "bhaiyat":"Bhalejia, Gorejiya",
+               "gotra":"Atri",
+               "vansh":"Chandravanshi",
+               "ishtadev":"",
+               "kuldevi":"Shri Amba Mataji / Shri Khodiyar Mataji",
+               "gor":"Joshi Brahmin",
+               "barot":"Sonrat"
+            },
+            {
+               "surname":"Bhati",
+               "bhaiyat":"Bhutiya",
+               "gotra":"Atri",
+               "vansh":"Chandravanshi",
+               "ishtadev":"",
+               "kuldevi":"Shri Vindhyavasini Aai",
+               "gor":"Joshi Brahmin",
+               "barot":"Brahbhat"
             }
          ]
       }
