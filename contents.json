@@ -189,13 +189,13 @@
          "subheading":"All of the request/register forms are used by Maher Centre.",
          "forms":[
             {
-               "heading":"Maher Girl Raas Register",
-               "subheading":"Register your attendance for the girls' raas session",
+               "title":"Maher Girl Raas Register",
+               "subtitle":"Register your attendance for the girls' raas session",
                "url":"https://forms.gle/b4eynKfrTD1xUy3g9"
             },
             {
-               "heading":"Maher Community Business Directory Register",
-               "subheading":"Register your business attendance for the business directory",
+               "title":"Maher Community Business Directory Register",
+               "subtitle":"Register your business attendance for the business directory",
                "url":"https://forms.gle/bXP8LCBHSp5PAwgF6"
             }
          ]
