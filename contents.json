@@ -176,6 +176,12 @@
          "heading":"FAQ",
          "subheading":"List of questions and answers intended to help with your queries."
       },
+      "calendar":{
+         "heading":"LMCA Calendar",
+         "subject":"Inquiry for date:",
+         "messagePartOne":"I would like to make an inquiry for",
+         "messagePartTwo":"Could a member of the LMCA committee please contact me to discuss this further? Thank you."
+      },
       "contact":{
          "heading":"Contact",
          "name":"Maher Centre",
