@@ -190,12 +190,12 @@
          "forms":[
             {
                "heading":"Maher Girl Raas Register",
-               "sub-heading":"Register your attendance for the girls' raas session",
+               "subheading":"Register your attendance for the girls' raas session",
                "url":"https://forms.gle/b4eynKfrTD1xUy3g9"
             },
             {
                "heading":"Maher Community Business Directory Register",
-               "sub-heading":"Register your business attendance for the business directory",
+               "subheading":"Register your business attendance for the business directory",
                "url":"https://forms.gle/bXP8LCBHSp5PAwgF6"
             }
          ]
