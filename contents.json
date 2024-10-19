@@ -174,7 +174,7 @@
          "emailAddress":"Email Address *",
          "message":"Message *",
          "button":"Send",
-         "missingField":"Name, Phone Number, Email Address or Message can not be empty",
+         "missingField":"Name, Subject, Phone Number, Email Address or Message can not be empty",
          "invalidEmailAddress":"The entered email address is invalid; please enter a valid one",
          "successMsg":"Thank you for sending your feedback to LMCA"
       },
