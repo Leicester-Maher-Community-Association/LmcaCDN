@@ -193,7 +193,7 @@
       "details":{
          "subject":"Request to join",
          "messagePartOne":"I would like to request to join",
-         "messagePartTwo":"Could a member of the group admin please contact me to discuss this further? Thank you."
+         "messagePartTwo":"Could a member of the group admin please contact me to discuss this further? Thank you.",
          "button":"Request to Join"
       },
       "faq":{
