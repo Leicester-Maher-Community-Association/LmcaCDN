@@ -162,8 +162,14 @@
       "feedback":{
          "heading":"Feedback",
          "subheading":"Help Us Improve",
-         "text":"We value your feedback. Let us know what you think of our community app! What is good? What could be better? Please share your thoughts; your ideas can make a difference.",
+         "text":"We value your feedback. Please share your thoughts about our Community Events, Committee, and App. What is good? What could be better? Your ideas can make a difference.",
          "name":"Name *",
+         "subject":[
+            "LMCA Community Events",
+            "LMCA Committee",
+            "LMCA App",
+            "Others"
+         ],
          "phoneNumber":"Phone Number *",
          "emailAddress":"Email Address *",
          "message":"Message *",
