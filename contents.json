@@ -190,6 +190,9 @@
          "invalidEmailAddress":"The entered email address is invalid; please enter a valid one",
          "successMsg":"Thank you for sending your feedback to LMCA"
       },
+      "details":{
+         "button":"Request to Join"
+      },
       "faq":{
          "heading":"FAQ",
          "subheading":"List of questions and answers intended to help with your queries."
