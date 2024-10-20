@@ -192,6 +192,7 @@
       },
       "details":{
          "subject":"Request to join",
+         "postsWithoutButton": [4305],
          "messagePartOne":"I would like to request to join",
          "messagePartTwo":"Could a member of the group please contact me to discuss this further? Thank you.",
          "button":"Request to Join"
