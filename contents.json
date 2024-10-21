@@ -1,133 +1,4 @@
 {
-   "committeeMembers":[
-      {
-         "name":"Sanjay Karavadra",
-         "position":"President",
-         "icon":"face-man"
-      },
-      {
-         "name":"Parbat Keshav Sanga",
-         "position":"Vice President",
-         "icon":"face-man"
-      },
-      {
-         "name":"Chetna Pratap Ranavaya",
-         "position":"Treasurer / Culture",
-         "icon":"face-woman"
-      },
-      {
-         "name":"Harish Sajan Keshwala",
-         "position":"Vice Treasurer",
-         "icon":"face-man"
-      },
-      {
-         "name":"Bharat Arjan Keshwala",
-         "position":"Secretary",
-         "icon":"face-man"
-      },
-      {
-         "name":"Davan Karsan Modhwadia",
-         "position":"Vice Secretary",
-         "icon":"face-man"
-      },
-      {
-         "name":"Nikhil Malde Keshwala",
-         "position":"Sports / Technology",
-         "icon":"face-man"
-      },
-      {
-         "name":"Akash Nagaji Odedra",
-         "position":"Youth",
-         "icon":"face-man"
-      },
-      {
-         "name":"Ashok Bhura Karavadra",
-         "position":"Events",
-         "icon":"face-man"
-      },
-      {
-         "name":"Atul Parbat Modhvadiya",
-         "position":"Events",
-         "icon":"face-man"
-      },
-      {
-         "name":"Bhanu Ramde Goraniya",
-         "position":"Culture",
-         "icon":"face-woman"
-      },
-      {
-         "name":"Hitesh Kana Godhaniya",
-         "position":"Sports / Culture",
-         "icon":"face-man"
-      },
-      {
-         "name":"Karan Deva Odedra",
-         "position":"Youth",
-         "icon":"face-man"
-      },
-      {
-         "name":"Kishor Devshi Karavadra",
-         "position":"Sports / Maintenance",
-         "icon":"face-man"
-      },
-      {
-         "name":"Lakhanbhai R Karavadra",
-         "position":"Youth / Maintenance",
-         "icon":"face-man"
-      },
-      {
-         "name":"Lakhansi Karshan Khunti",
-         "position":"Maintenance",
-         "icon":"face-man"
-      },
-      {
-         "name":"Niraj Vinod Modhwadia",
-         "position":"Car Park",
-         "icon":"face-man"
-      },
-      {
-         "name":"Pratap Arjan Keshwala",
-         "position":"Car Park",
-         "icon":"face-man"
-      },
-      {
-         "name":"Ram Modhwadia",
-         "position":"Culture",
-         "icon":"face-man"
-      },
-      {
-         "name":"Rambhai Rajshi Modhwadia",
-         "position":"Events",
-         "icon":"face-man"
-      }
-   ],
-   "holdingTrustees":[
-      {
-         "name":"Arjan Hardas Keshwala",
-         "position":"Holding Trustee",
-         "icon":"face-man"
-      },
-      {
-         "name":"Devshi Arjan Odedra",
-         "position":"Holding Trustee",
-         "icon":"face-man"
-      },
-      {
-         "name":"Arjun Atul Odedra",
-         "position":"Holding Trustee",
-         "icon":"face-man"
-      },
-      {
-         "name":"Laxman Parbat Modhvadiya",
-         "position":"Holding Trustee",
-         "icon":"face-man"
-      },
-      {
-         "name":"Nagajun Rambhai Odedra",
-         "position":"Holding Trustee",
-         "icon":"face-man"
-      }
-   ],
    "pages":{
       "home":{
          "heading":"Leicester Maher\n Community Association",
@@ -136,7 +7,7 @@
       },
       "donations":{
          "heading":"Donate to LMCA",
-         "subheading":"Help Us Make a Difference",
+         "subheading":"Your donations will make a difference",
          "amount":"Donation Amount (in GBP)",
          "button":"Donate Now"
       },
@@ -395,5 +266,134 @@
             }
          ]
       }
-   }
+   },
+   "committeeMembers":[
+      {
+         "name":"Sanjay Karavadra",
+         "position":"President",
+         "icon":"face-man"
+      },
+      {
+         "name":"Parbat Keshav Sanga",
+         "position":"Vice President",
+         "icon":"face-man"
+      },
+      {
+         "name":"Chetna Pratap Ranavaya",
+         "position":"Treasurer / Culture",
+         "icon":"face-woman"
+      },
+      {
+         "name":"Harish Sajan Keshwala",
+         "position":"Vice Treasurer",
+         "icon":"face-man"
+      },
+      {
+         "name":"Bharat Arjan Keshwala",
+         "position":"Secretary",
+         "icon":"face-man"
+      },
+      {
+         "name":"Davan Karsan Modhwadia",
+         "position":"Vice Secretary",
+         "icon":"face-man"
+      },
+      {
+         "name":"Nikhil Malde Keshwala",
+         "position":"Sports / Technology",
+         "icon":"face-man"
+      },
+      {
+         "name":"Akash Nagaji Odedra",
+         "position":"Youth",
+         "icon":"face-man"
+      },
+      {
+         "name":"Ashok Bhura Karavadra",
+         "position":"Events",
+         "icon":"face-man"
+      },
+      {
+         "name":"Atul Parbat Modhvadiya",
+         "position":"Events",
+         "icon":"face-man"
+      },
+      {
+         "name":"Bhanu Ramde Goraniya",
+         "position":"Culture",
+         "icon":"face-woman"
+      },
+      {
+         "name":"Hitesh Kana Godhaniya",
+         "position":"Sports / Culture",
+         "icon":"face-man"
+      },
+      {
+         "name":"Karan Deva Odedra",
+         "position":"Youth",
+         "icon":"face-man"
+      },
+      {
+         "name":"Kishor Devshi Karavadra",
+         "position":"Sports / Maintenance",
+         "icon":"face-man"
+      },
+      {
+         "name":"Lakhanbhai R Karavadra",
+         "position":"Youth / Maintenance",
+         "icon":"face-man"
+      },
+      {
+         "name":"Lakhansi Karshan Khunti",
+         "position":"Maintenance",
+         "icon":"face-man"
+      },
+      {
+         "name":"Niraj Vinod Modhwadia",
+         "position":"Car Park",
+         "icon":"face-man"
+      },
+      {
+         "name":"Pratap Arjan Keshwala",
+         "position":"Car Park",
+         "icon":"face-man"
+      },
+      {
+         "name":"Ram Modhwadia",
+         "position":"Culture",
+         "icon":"face-man"
+      },
+      {
+         "name":"Rambhai Rajshi Modhwadia",
+         "position":"Events",
+         "icon":"face-man"
+      }
+   ],
+   "holdingTrustees":[
+      {
+         "name":"Arjan Hardas Keshwala",
+         "position":"Holding Trustee",
+         "icon":"face-man"
+      },
+      {
+         "name":"Devshi Arjan Odedra",
+         "position":"Holding Trustee",
+         "icon":"face-man"
+      },
+      {
+         "name":"Arjun Atul Odedra",
+         "position":"Holding Trustee",
+         "icon":"face-man"
+      },
+      {
+         "name":"Laxman Parbat Modhvadiya",
+         "position":"Holding Trustee",
+         "icon":"face-man"
+      },
+      {
+         "name":"Nagajun Rambhai Odedra",
+         "position":"Holding Trustee",
+         "icon":"face-man"
+      }
+   ]
 }
