@@ -134,10 +134,10 @@
          "subheading":"Connecting Maher Community in UK",
          "content":"Maher Community Association (UK) was founded to unite the Maher Community and promote and preserve our culture, heritage, language, and social awareness.\n\nOur community is built on a strong foundation due to the hard work and dedication of our past and present committee members, board of trustees, and volunteers, as well as the ongoing support from our local community.\n\nThe community organises numerous events, such as Beej, Ram Navami, Holi, Janmashtami, Navratri, Diwali, Christmas, and New Year.\n\nThrough these commitments, our goal remains the same: to invest in the next generation—our youth, who will proudly continue to carry our heritage.\n\nAs we enter the new era, we want to encourage our community to embrace new services and new technology and build a platform for our youth to participate with excitement and enthusiasm. We encourage each Maher family to engage by becoming a member, participating in our activities, and helping us grow to build a stronger community."
       },
-      "donations": {
+      "donations":{
          "heading":"Donate to LMCA",
          "subheading":"Help Us Make a Difference",
-         "amount": "Donation Amount (in GBP)",
+         "amount":"Donation Amount (in GBP)",
          "button":"Donate Now"
       },
       "news":{
@@ -198,7 +198,9 @@
       },
       "details":{
          "subject":"Request to join",
-         "postsWithoutButton": [4305],
+         "postsWithoutButton":[
+            4305
+         ],
          "messagePartOne":"I would like to request to join",
          "messagePartTwo":"Could a member of the group please contact me to discuss this further? Thank you.",
          "button":"Request to Join"
