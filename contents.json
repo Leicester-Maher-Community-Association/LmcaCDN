@@ -83,6 +83,8 @@
       "calendar":{
          "heading":"LMCA Calendar",
          "subject":"Inquiry for date:",
+         "datesAvailableMessage":"No bookings; this date is empty!",
+         "datesNotMessage":"Selected date is not available,\n please select another date!",
          "messagePartOne":"I would like to make an inquiry for",
          "messagePartTwo":"Could a member of the LMCA committee please contact me to discuss this further? Thank you."
       },
