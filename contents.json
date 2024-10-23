@@ -76,25 +76,7 @@
     },
     "faq": {
       "heading": "FAQ",
-      "subheading": "List of questions and answers intended to help with your queries.",
-      "faqs": [
-        {
-          "question": "How do I change the YouTube resolution?",
-          "answer": "Select settings, quality and then the highest resolution available."
-        },
-        {
-          "question": "How do I volunteer at Maher Centre?",
-          "answer": "To became a volunteer, please contact Maher Centre via phone or email."
-        },
-        {
-          "question": "How do update my details?",
-          "answer": "To update any details, please contact Maher Centre via phone or email."
-        },
-        {
-          "question": "How do I donate to LMCA?",
-          "answer": "Use the donation link to be available on the LMCA App."
-        }
-      ]
+      "subheading": "List of questions and answers intended to help with your queries."
     },
     "calendar": {
       "heading": "LMCA Calendar",
