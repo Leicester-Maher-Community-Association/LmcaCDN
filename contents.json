@@ -1,401 +1,417 @@
 {
-   "pages":{
-      "home":{
-         "heading":"Leicester Maher\n Community Association",
-         "subheading":"Connecting Maher Community in UK",
-         "content":"Maher Community Association (UK) was founded to unite the Maher Community and promote and preserve our culture, heritage, language, and social awareness.\n\nOur community is built on a strong foundation due to the hard work and dedication of our past and present committee members, board of trustees, and volunteers, as well as the ongoing support from our local community.\n\nThe community organises numerous events, such as Beej, Ram Navami, Holi, Janmashtami, Navratri, Diwali, Christmas, and New Year.\n\nThrough these commitments, our goal remains the same: to invest in the next generation—our youth, who will proudly continue to carry our heritage.\n\nAs we enter the new era, we want to encourage our community to embrace new services and new technology and build a platform for our youth to participate with excitement and enthusiasm.\n\nWe encourage each Maher family to engage by becoming a member, participating in our activities, and helping us grow to build a stronger community."
-      },
-      "donations":{
-         "heading":"Donate to LMCA",
-         "subheading":"Your donations will make a difference",
-         "amount":"Donation Amount (in GBP)",
-         "button":"Donate Now"
-      },
-      "news":{
-         "heading":"News",
-         "subheading":"Latest LMCA news, MCA news, death notifications, religious announcements etc."
-      },
-      "events":{
-         "heading":"Events",
-         "subheading":"Latest LMCA events, MCA events, religious notifications, cultural announcements etc."
-      },
-      "inquiry":{
-         "heading":"Inquiry",
-         "subheading":"Inquiries for centre hire, sports events, religious activities, cultural classes, etc.",
-         "name":"Name *",
-         "phoneNumber":"Phone Number *",
-         "emailAddress":"Email Address *",
-         "subject":"Subject *",
-         "message":"Message *",
-         "button":"Send",
-         "missingField":"Name, Subject, Phone Number, Email Address & Message can not be empty",
-         "invalidEmailAddress":"The entered email address is invalid; please enter a valid one",
-         "successMsg":"Thank you for sending your inquiry to LMCA"
-      },
-      "activity":{
-         "heading":"Activity",
-         "subheading":"Frequent activities organised by Maher Centre."
-      },
-      "feedback":{
-         "heading":"Feedback",
-         "subheading":"Help Us Improve",
-         "text":"We value your feedback. Please share your thoughts about our Community Events, Committee, and App. What is good? What could be better? Your ideas can make a difference.",
-         "name":"Name *",
-         "subjects":[
-            {
-               "label":"LMCA Community Events",
-               "value":"LMCA Community Events"
-            },
-            {
-               "label":"LMCA Committee",
-               "value":"LMCA Committee"
-            },
-            {
-               "label":"LMCA App",
-               "value":"LMCA App"
-            },
-            {
-               "label":"Others",
-               "value":"Others"
-            }
-         ],
-         "phoneNumber":"Phone Number *",
-         "emailAddress":"Email Address *",
-         "message":"Message *",
-         "button":"Send",
-         "missingField":"Name, Subject, Phone Number, Email Address or Message can not be empty",
-         "invalidEmailAddress":"The entered email address is invalid; please enter a valid one",
-         "successMsg":"Thank you for sending your feedback to LMCA"
-      },
-      "details":{
-         "subject":"Request to join",
-         "postsWithoutButton":[
-            4305
-         ],
-         "messagePartOne":"I would like to request to join",
-         "messagePartTwo":"Could a member of the group please contact me to discuss this further? Thank you.",
-         "button":"Request to Join"
-      },
-      "faq":{
-         "heading":"FAQ",
-         "subheading":"List of questions and answers intended to help with your queries."
-      },
-      "calendar":{
-         "heading":"LMCA Calendar",
-         "subject":"Inquiry for date:",
-         "datesAvailableMessage":"No bookings; this date is empty!",
-         "datesNotMessage":"Selected date is not available,\n please select another date!",
-         "messagePartOne":"I would like to make an inquiry for",
-         "messagePartTwo":"Could a member of the LMCA committee please contact me to discuss this further? Thank you."
-      },
-      "contact":{
-         "heading":"Contact",
-         "name":"Maher Centre",
-         "address":"15 Ravensbridge Drive,\n Leicester,\n LE4 0BZ",
-         "phone":"0116 242 5360",
-         "email":"info@mahercentre.com",
-         "website":"https://mahercommunity.org/"
-      },
-      "request":{
-         "heading":"Request Forms",
-         "subheading":"All of the request/register forms are used by Maher Centre.",
-         "forms":[
-            {
-               "title":"Maher Girl Raas Register",
-               "subtitle":"Register your attendance",
-               "url":"https://forms.gle/b4eynKfrTD1xUy3g9"
-            },
-            {
-               "title":"Maher Community Business Directory Register",
-               "subtitle":"Register your business",
-               "url":"https://forms.gle/bXP8LCBHSp5PAwgF6"
-            }
-         ]
-      },
-      "surnames":{
-         "heading":"Surnames",
-         "text":"Surnames are very important in the Maher community, and each surname has a long and distinctive history.\n\nOur Maher community has 14 main surnames: Keshwala, Sisodia, Rajsakha, Odedra, Jadeja, Solanki, Parmar, Vadher, Vada, Chavda, Chohan, Vadar, Pathiar, and Vagh.\n\nSeveral sub-surnames exist within these main surnames. Here is the list of full surnames and sub-surnames known as the 'Bhaiyatas' brotherhood.",
-         "surnames":[
-            {
-               "surname":"Keshwala",
-               "bhaiyat":"Antrolia, Bheynia, Ratadia, Butta, Erda, Bagordara",
-               "gotra":"Kashyap",
-               "vansh":"Suryavanshi",
-               "ishtadev":"Ramchandra",
-               "kuldevi":"Khodiyar Mataji / Shri Vindhyavasini Aai",
-               "gor":"Girnara Brahmin",
-               "barot":"Sonrat"
-            },
-            {
-               "surname":"Sisodia",
-               "bhaiyat":"Modhwadia, Kuchhadia, Khistriya, Godhania, Ranavaya, Hadadiya, Pashtariya",
-               "gotra":"Kashyap",
-               "vansh":"Suryavanshi",
-               "ishtadev":"Ramchandra",
-               "kuldevi":"Shri Vindhyavasini Aai / Shri Chamundai / Shri Gatran Aai / Shri Sikotar Aai",
-               "gor":"Thanki Brahmin",
-               "barot":"Rehnuka"
-            },
-            {
-               "surname":"Rajsakha",
-               "bhaiyat":"Karavadra, Khunti, Tilak, Gorania, Chundavadra, Jethwa, Surya, Jog, Modedra, Selot, Selar, Pariya, Bhosiya, Bokhiria",
-               "gotra":"Aashtang",
-               "vansh":"Suryavanshi",
-               "ishtadev":"Shri Hanumanji",
-               "kuldevi":"Shri Vindhyavasini Aai / Shri Chamundai",
-               "gor":"Joshi Brahmin",
-               "barot":"Brahbhat"
-            },
-            {
-               "surname":"Odedra",
-               "bhaiyat":"Visana, Ji, Okhai, Tukadiya",
-               "gotra":"Kashyap",
-               "vansh":"Chandravanshi",
-               "ishtadev":"Gorakhnath Vacharadada, Patha Pir",
-               "kuldevi":"Shri Sikoter Mataji / Chamunda/ Balvi",
-               "gor":"Joshi Brahmin",
-               "barot":"Sonrat"
-            },
-            {
-               "surname":"Jadeja",
-               "bhaiyat":"Kadchha, Ratiya, Tarkhala, Kadegiya, Pipraniya, Mekhadiya, Kulranmiya",
-               "gotra":"Atri Samved",
-               "vansh":"Chandravanshi",
-               "ishtadev":"Ashapuri",
-               "kuldevi":"Ambaji /  Kandhali Aai / Ashapura Ma",
-               "gor":"Girnara Brahmin",
-               "barot":"Lagdhir"
-            },
-            {
-               "surname":"Vaghela",
-               "bhaiyat":"Solanki, Timba, Samja, Vadaliya, Jakhniya, Bhanvadiya, Chabhhad, Divraniya, Bhogesra, Juneja, Gariyana, Sida, Chhaya",
-               "gotra":"Atri",
-               "vansh":"Agnivanshi",
-               "ishtadev":"Vacharadada",
-               "kuldevi":"Shri Shikoter Mataji",
-               "gor":"Joshi Brahmin",
-               "barot":"Brahbhat"
-            },
-            {
-               "surname":"Parmar",
-               "bhaiyat":"Mahiyaria, Chatraviya, Liboriya, Kahaliya, Kotadiya, Jilaniya, Mosa, Mandera, Pata, Gorsera, Badeja, Chandela",
-               "gotra":"Gautam Rushi",
-               "vansh":"Agnivanshi",
-               "ishtadev":"",
-               "kuldevi":"Simiyar - Mandvari / Shri Maha Kali / Shri Mandavadi Aai",
-               "gor":"Girnara Brahmin",
-               "barot":"Sonrat"
-            },
-            {
-               "surname":"Vadher",
-               "bhaiyat":"Sharma, Sutreja, Sindhal, Padodariya, Chandesha, Dasa, Pandavadariya, Chanrodariya, Mahikya",
-               "gotra":"Kashyap",
-               "vansh":"Suryavanshi",
-               "ishtadev":"",
-               "kuldevi":"Shri Khodiyar Aai / Shri Gatran Aai",
-               "gor":"Girnara Brahmin",
-               "barot":"Sonrat"
-            },
-            {
-               "surname":"Vada",
-               "bhaiyat":"Muliyashiya, Khimdaniya, Bapodra-(Mashani) Amar, Agath, Mihikiya, Timmasiya, Bhetakiya",
-               "gotra":"Kashyap",
-               "vansh":"Suryavanshi",
-               "ishtadev":"",
-               "kuldevi":"Visant Mataji / Shri Vindhyavasini Aai / Chamunda Mataji / Vihot Mataji",
-               "gor":"Joshi Brahmin",
-               "barot":"Brahbhat"
-            },
-            {
-               "surname":"Chavda",
-               "bhaiyat":"Navadiya, Kothvada, Kothadiya, Padorodiya, Kodvara",
-               "gotra":"Kashyap",
-               "vansh":"Suryavanshi",
-               "ishtadev":"",
-               "kuldevi":"Shri Shikoter Mataji",
-               "gor":"Joshi Brahmin",
-               "barot":"Brahbhat"
-            },
-            {
-               "surname":"Chauhan",
-               "bhaiyat":"Gareja",
-               "gotra":"",
-               "vansh":"Agnivashi",
-               "ishtadev":"",
-               "kuldevi":"Shapurna Mataji / Shri Chamuda Mataji",
-               "gor":"Joshi Brahmin",
-               "barot":"Brahbhat"
-            },
-            {
-               "surname":"Vadar",
-               "bhaiyat":"Nandaniya, Nakura, Badhsa, Hilla, Jasiya, Bamaniya",
-               "gotra":"",
-               "vansh":"Chandravanshi",
-               "ishtadev":"",
-               "kuldevi":"Shri Chamuda Mataji",
-               "gor":"Joshi Brahmin",
-               "barot":"Brahbhat"
-            },
-            {
-               "surname":"Parihar",
-               "bhaiyat":"Thapaliya",
-               "gotra":"",
-               "vansh":"Agnivashi",
-               "ishtadev":"",
-               "kuldevi":"Shri Chamuda Mataji",
-               "gor":"Joshi Brahmin",
-               "barot":"Sonrat"
-            },
-            {
-               "surname":"Vagh",
-               "bhaiyat":"Bhalejia, Gorejiya",
-               "gotra":"Atri",
-               "vansh":"Chandravanshi",
-               "ishtadev":"",
-               "kuldevi":"Shri Amba Mataji / Shri Khodiyar Mataji",
-               "gor":"Joshi Brahmin",
-               "barot":"Sonrat"
-            },
-            {
-               "surname":"Bhati",
-               "bhaiyat":"Bhutiya",
-               "gotra":"Atri",
-               "vansh":"Chandravanshi",
-               "ishtadev":"",
-               "kuldevi":"Shri Vindhyavasini Aai",
-               "gor":"Joshi Brahmin",
-               "barot":"Brahbhat"
-            }
-         ]
-      }
-   },
-   "committeeMembers":[
-      {
-         "name":"Sanjay Karavadra",
-         "position":"President",
-         "icon":"face-man"
-      },
-      {
-         "name":"Parbat Keshav Sanga",
-         "position":"Vice President",
-         "icon":"face-man"
-      },
-      {
-         "name":"Chetna Pratap Ranavaya",
-         "position":"Treasurer / Culture",
-         "icon":"face-woman"
-      },
-      {
-         "name":"Harish Sajan Keshwala",
-         "position":"Vice Treasurer",
-         "icon":"face-man"
-      },
-      {
-         "name":"Bharat Arjan Keshwala",
-         "position":"Secretary",
-         "icon":"face-man"
-      },
-      {
-         "name":"Davan Karsan Modhwadia",
-         "position":"Vice Secretary",
-         "icon":"face-man"
-      },
-      {
-         "name":"Nikhil Malde Keshwala",
-         "position":"Sports / Technology",
-         "icon":"face-man"
-      },
-      {
-         "name":"Akash Nagaji Odedra",
-         "position":"Youth",
-         "icon":"face-man"
-      },
-      {
-         "name":"Ashok Bhura Karavadra",
-         "position":"Events",
-         "icon":"face-man"
-      },
-      {
-         "name":"Atul Parbat Modhvadiya",
-         "position":"Events",
-         "icon":"face-man"
-      },
-      {
-         "name":"Bhanu Ramde Goraniya",
-         "position":"Culture",
-         "icon":"face-woman"
-      },
-      {
-         "name":"Hitesh Kana Godhaniya",
-         "position":"Sports / Culture",
-         "icon":"face-man"
-      },
-      {
-         "name":"Karan Deva Odedra",
-         "position":"Youth",
-         "icon":"face-man"
-      },
-      {
-         "name":"Kishor Devshi Karavadra",
-         "position":"Sports / Maintenance",
-         "icon":"face-man"
-      },
-      {
-         "name":"Lakhanbhai R Karavadra",
-         "position":"Youth / Maintenance",
-         "icon":"face-man"
-      },
-      {
-         "name":"Lakhansi Karshan Khunti",
-         "position":"Maintenance",
-         "icon":"face-man"
-      },
-      {
-         "name":"Niraj Vinod Modhwadia",
-         "position":"Car Park",
-         "icon":"face-man"
-      },
-      {
-         "name":"Pratap Arjan Keshwala",
-         "position":"Car Park",
-         "icon":"face-man"
-      },
-      {
-         "name":"Ram Modhwadia",
-         "position":"Culture",
-         "icon":"face-man"
-      },
-      {
-         "name":"Rambhai Rajshi Modhwadia",
-         "position":"Events",
-         "icon":"face-man"
-      }
-   ],
-   "holdingTrustees":[
-      {
-         "name":"Arjan Hardas Keshwala",
-         "position":"Holding Trustee",
-         "icon":"face-man"
-      },
-      {
-         "name":"Devshi Arjan Odedra",
-         "position":"Holding Trustee",
-         "icon":"face-man"
-      },
-      {
-         "name":"Arjun Atul Odedra",
-         "position":"Holding Trustee",
-         "icon":"face-man"
-      },
-      {
-         "name":"Laxman Parbat Modhvadiya",
-         "position":"Holding Trustee",
-         "icon":"face-man"
-      },
-      {
-         "name":"Nagajun Rambhai Odedra",
-         "position":"Holding Trustee",
-         "icon":"face-man"
-      }
-   ]
+  "pages": {
+    "home": {
+      "heading": "Leicester Maher\n Community Association",
+      "subheading": "Connecting Maher Community in UK",
+      "content": "Maher Community Association (UK) was founded to unite the Maher Community and promote and preserve our culture, heritage, language, and social awareness.\n\nOur community is built on a strong foundation due to the hard work and dedication of our past and present committee members, board of trustees, and volunteers, as well as the ongoing support from our local community.\n\nThe community organises numerous events, such as Beej, Ram Navami, Holi, Janmashtami, Navratri, Diwali, Christmas, and New Year.\n\nThrough these commitments, our goal remains the same: to invest in the next generation—our youth, who will proudly continue to carry our heritage.\n\nAs we enter the new era, we want to encourage our community to embrace new services and new technology and build a platform for our youth to participate with excitement and enthusiasm.\n\nWe encourage each Maher family to engage by becoming a member, participating in our activities, and helping us grow to build a stronger community."
+    },
+    "donations": {
+      "heading": "Donate to LMCA",
+      "subheading": "Your donations will make a difference",
+      "amount": "Donation Amount (in GBP)",
+      "button": "Donate Now"
+    },
+    "news": {
+      "heading": "News",
+      "subheading": "Latest LMCA news, MCA news, death notifications, religious announcements etc."
+    },
+    "events": {
+      "heading": "Events",
+      "subheading": "Latest LMCA events, MCA events, religious notifications, cultural announcements etc."
+    },
+    "inquiry": {
+      "heading": "Inquiry",
+      "subheading": "Inquiries for centre hire, sports events, religious activities, cultural classes, etc.",
+      "name": "Name *",
+      "phoneNumber": "Phone Number *",
+      "emailAddress": "Email Address *",
+      "subject": "Subject *",
+      "message": "Message *",
+      "button": "Send",
+      "missingField": "Name, Subject, Phone Number, Email Address & Message can not be empty",
+      "invalidEmailAddress": "The entered email address is invalid; please enter a valid one",
+      "successMsg": "Thank you for sending your inquiry to LMCA"
+    },
+    "activity": {
+      "heading": "Activity",
+      "subheading": "Frequent activities organised by Maher Centre."
+    },
+    "feedback": {
+      "heading": "Feedback",
+      "subheading": "Help Us Improve",
+      "text": "We value your feedback. Please share your thoughts about our Community Events, Committee, and App. What is good? What could be better? Your ideas can make a difference.",
+      "name": "Name *",
+      "subjects": [
+        {
+          "label": "LMCA Community Events",
+          "value": "LMCA Community Events"
+        },
+        {
+          "label": "LMCA Committee",
+          "value": "LMCA Committee"
+        },
+        {
+          "label": "LMCA App",
+          "value": "LMCA App"
+        },
+        {
+          "label": "Others",
+          "value": "Others"
+        }
+      ],
+      "phoneNumber": "Phone Number *",
+      "emailAddress": "Email Address *",
+      "message": "Message *",
+      "button": "Send",
+      "missingField": "Name, Subject, Phone Number, Email Address or Message can not be empty",
+      "invalidEmailAddress": "The entered email address is invalid; please enter a valid one",
+      "successMsg": "Thank you for sending your feedback to LMCA"
+    },
+    "details": {
+      "subject": "Request to join",
+      "postsWithoutButton": [4305],
+      "messagePartOne": "I would like to request to join",
+      "messagePartTwo": "Could a member of the group please contact me to discuss this further? Thank you.",
+      "button": "Request to Join"
+    },
+    "faq": {
+      "heading": "FAQ",
+      "subheading": "List of questions and answers intended to help with your queries.",
+      "faqs": [
+        {
+          "question": "How do I change the YouTube resolution?",
+          "answer": "Select settings, quality and then the highest resolution available."
+        },
+        {
+          "question": "How do I volunteer at Maher Centre?",
+          "answer": "To became a volunteer, please contact Maher Centre via phone or email."
+        },
+        {
+          "question": "How do update my details?",
+          "answer": "To update any details, please contact Maher Centre via phone or email."
+        },
+        {
+          "question": "How do I donate to LMCA?",
+          "answer": "Use the donation link to be available on the LMCA App."
+        }
+      ]
+    },
+    "calendar": {
+      "heading": "LMCA Calendar",
+      "subject": "Inquiry for date:",
+      "datesAvailableMessage": "No bookings; this date is empty!",
+      "datesNotMessage": "Selected date is not available,\n please select another date!",
+      "messagePartOne": "I would like to make an inquiry for",
+      "messagePartTwo": "Could a member of the LMCA committee please contact me to discuss this further? Thank you."
+    },
+    "contact": {
+      "heading": "Contact",
+      "name": "Maher Centre",
+      "address": "15 Ravensbridge Drive,\n Leicester,\n LE4 0BZ",
+      "phone": "0116 242 5360",
+      "email": "info@mahercentre.com",
+      "website": "https://mahercommunity.org/"
+    },
+    "request": {
+      "heading": "Request Forms",
+      "subheading": "All of the request/register forms are used by Maher Centre.",
+      "forms": [
+        {
+          "title": "Maher Girl Raas Register",
+          "subtitle": "Register your attendance",
+          "url": "https://forms.gle/b4eynKfrTD1xUy3g9"
+        },
+        {
+          "title": "Maher Community Business Directory Register",
+          "subtitle": "Register your business",
+          "url": "https://forms.gle/bXP8LCBHSp5PAwgF6"
+        }
+      ]
+    },
+    "surnames": {
+      "heading": "Surnames",
+      "text": "Surnames are very important in the Maher community, and each surname has a long and distinctive history.\n\nOur Maher community has 14 main surnames: Keshwala, Sisodia, Rajsakha, Odedra, Jadeja, Solanki, Parmar, Vadher, Vada, Chavda, Chohan, Vadar, Pathiar, and Vagh.\n\nSeveral sub-surnames exist within these main surnames. Here is the list of full surnames and sub-surnames known as the 'Bhaiyatas' brotherhood.",
+      "surnames": [
+        {
+          "surname": "Keshwala",
+          "bhaiyat": "Antrolia, Bheynia, Ratadia, Butta, Erda, Bagordara",
+          "gotra": "Kashyap",
+          "vansh": "Suryavanshi",
+          "ishtadev": "Ramchandra",
+          "kuldevi": "Khodiyar Mataji / Shri Vindhyavasini Aai",
+          "gor": "Girnara Brahmin",
+          "barot": "Sonrat"
+        },
+        {
+          "surname": "Sisodia",
+          "bhaiyat": "Modhwadia, Kuchhadia, Khistriya, Godhania, Ranavaya, Hadadiya, Pashtariya",
+          "gotra": "Kashyap",
+          "vansh": "Suryavanshi",
+          "ishtadev": "Ramchandra",
+          "kuldevi": "Shri Vindhyavasini Aai / Shri Chamundai / Shri Gatran Aai / Shri Sikotar Aai",
+          "gor": "Thanki Brahmin",
+          "barot": "Rehnuka"
+        },
+        {
+          "surname": "Rajsakha",
+          "bhaiyat": "Karavadra, Khunti, Tilak, Gorania, Chundavadra, Jethwa, Surya, Jog, Modedra, Selot, Selar, Pariya, Bhosiya, Bokhiria",
+          "gotra": "Aashtang",
+          "vansh": "Suryavanshi",
+          "ishtadev": "Shri Hanumanji",
+          "kuldevi": "Shri Vindhyavasini Aai / Shri Chamundai",
+          "gor": "Joshi Brahmin",
+          "barot": "Brahbhat"
+        },
+        {
+          "surname": "Odedra",
+          "bhaiyat": "Visana, Ji, Okhai, Tukadiya",
+          "gotra": "Kashyap",
+          "vansh": "Chandravanshi",
+          "ishtadev": "Gorakhnath Vacharadada, Patha Pir",
+          "kuldevi": "Shri Sikoter Mataji / Chamunda/ Balvi",
+          "gor": "Joshi Brahmin",
+          "barot": "Sonrat"
+        },
+        {
+          "surname": "Jadeja",
+          "bhaiyat": "Kadchha, Ratiya, Tarkhala, Kadegiya, Pipraniya, Mekhadiya, Kulranmiya",
+          "gotra": "Atri Samved",
+          "vansh": "Chandravanshi",
+          "ishtadev": "Ashapuri",
+          "kuldevi": "Ambaji /  Kandhali Aai / Ashapura Ma",
+          "gor": "Girnara Brahmin",
+          "barot": "Lagdhir"
+        },
+        {
+          "surname": "Vaghela",
+          "bhaiyat": "Solanki, Timba, Samja, Vadaliya, Jakhniya, Bhanvadiya, Chabhhad, Divraniya, Bhogesra, Juneja, Gariyana, Sida, Chhaya",
+          "gotra": "Atri",
+          "vansh": "Agnivanshi",
+          "ishtadev": "Vacharadada",
+          "kuldevi": "Shri Shikoter Mataji",
+          "gor": "Joshi Brahmin",
+          "barot": "Brahbhat"
+        },
+        {
+          "surname": "Parmar",
+          "bhaiyat": "Mahiyaria, Chatraviya, Liboriya, Kahaliya, Kotadiya, Jilaniya, Mosa, Mandera, Pata, Gorsera, Badeja, Chandela",
+          "gotra": "Gautam Rushi",
+          "vansh": "Agnivanshi",
+          "ishtadev": "",
+          "kuldevi": "Simiyar - Mandvari / Shri Maha Kali / Shri Mandavadi Aai",
+          "gor": "Girnara Brahmin",
+          "barot": "Sonrat"
+        },
+        {
+          "surname": "Vadher",
+          "bhaiyat": "Sharma, Sutreja, Sindhal, Padodariya, Chandesha, Dasa, Pandavadariya, Chanrodariya, Mahikya",
+          "gotra": "Kashyap",
+          "vansh": "Suryavanshi",
+          "ishtadev": "",
+          "kuldevi": "Shri Khodiyar Aai / Shri Gatran Aai",
+          "gor": "Girnara Brahmin",
+          "barot": "Sonrat"
+        },
+        {
+          "surname": "Vada",
+          "bhaiyat": "Muliyashiya, Khimdaniya, Bapodra-(Mashani) Amar, Agath, Mihikiya, Timmasiya, Bhetakiya",
+          "gotra": "Kashyap",
+          "vansh": "Suryavanshi",
+          "ishtadev": "",
+          "kuldevi": "Visant Mataji / Shri Vindhyavasini Aai / Chamunda Mataji / Vihot Mataji",
+          "gor": "Joshi Brahmin",
+          "barot": "Brahbhat"
+        },
+        {
+          "surname": "Chavda",
+          "bhaiyat": "Navadiya, Kothvada, Kothadiya, Padorodiya, Kodvara",
+          "gotra": "Kashyap",
+          "vansh": "Suryavanshi",
+          "ishtadev": "",
+          "kuldevi": "Shri Shikoter Mataji",
+          "gor": "Joshi Brahmin",
+          "barot": "Brahbhat"
+        },
+        {
+          "surname": "Chauhan",
+          "bhaiyat": "Gareja",
+          "gotra": "",
+          "vansh": "Agnivashi",
+          "ishtadev": "",
+          "kuldevi": "Shapurna Mataji / Shri Chamuda Mataji",
+          "gor": "Joshi Brahmin",
+          "barot": "Brahbhat"
+        },
+        {
+          "surname": "Vadar",
+          "bhaiyat": "Nandaniya, Nakura, Badhsa, Hilla, Jasiya, Bamaniya",
+          "gotra": "",
+          "vansh": "Chandravanshi",
+          "ishtadev": "",
+          "kuldevi": "Shri Chamuda Mataji",
+          "gor": "Joshi Brahmin",
+          "barot": "Brahbhat"
+        },
+        {
+          "surname": "Parihar",
+          "bhaiyat": "Thapaliya",
+          "gotra": "",
+          "vansh": "Agnivashi",
+          "ishtadev": "",
+          "kuldevi": "Shri Chamuda Mataji",
+          "gor": "Joshi Brahmin",
+          "barot": "Sonrat"
+        },
+        {
+          "surname": "Vagh",
+          "bhaiyat": "Bhalejia, Gorejiya",
+          "gotra": "Atri",
+          "vansh": "Chandravanshi",
+          "ishtadev": "",
+          "kuldevi": "Shri Amba Mataji / Shri Khodiyar Mataji",
+          "gor": "Joshi Brahmin",
+          "barot": "Sonrat"
+        },
+        {
+          "surname": "Bhati",
+          "bhaiyat": "Bhutiya",
+          "gotra": "Atri",
+          "vansh": "Chandravanshi",
+          "ishtadev": "",
+          "kuldevi": "Shri Vindhyavasini Aai",
+          "gor": "Joshi Brahmin",
+          "barot": "Brahbhat"
+        }
+      ]
+    }
+  },
+  "committeeMembers": [
+    {
+      "name": "Sanjay Karavadra",
+      "position": "President",
+      "icon": "face-man"
+    },
+    {
+      "name": "Parbat Keshav Sanga",
+      "position": "Vice President",
+      "icon": "face-man"
+    },
+    {
+      "name": "Chetna Pratap Ranavaya",
+      "position": "Treasurer / Culture",
+      "icon": "face-woman"
+    },
+    {
+      "name": "Harish Sajan Keshwala",
+      "position": "Vice Treasurer",
+      "icon": "face-man"
+    },
+    {
+      "name": "Bharat Arjan Keshwala",
+      "position": "Secretary",
+      "icon": "face-man"
+    },
+    {
+      "name": "Davan Karsan Modhwadia",
+      "position": "Vice Secretary",
+      "icon": "face-man"
+    },
+    {
+      "name": "Nikhil Malde Keshwala",
+      "position": "Sports / Technology",
+      "icon": "face-man"
+    },
+    {
+      "name": "Akash Nagaji Odedra",
+      "position": "Youth",
+      "icon": "face-man"
+    },
+    {
+      "name": "Ashok Bhura Karavadra",
+      "position": "Events",
+      "icon": "face-man"
+    },
+    {
+      "name": "Atul Parbat Modhvadiya",
+      "position": "Events",
+      "icon": "face-man"
+    },
+    {
+      "name": "Bhanu Ramde Goraniya",
+      "position": "Culture",
+      "icon": "face-woman"
+    },
+    {
+      "name": "Hitesh Kana Godhaniya",
+      "position": "Sports / Culture",
+      "icon": "face-man"
+    },
+    {
+      "name": "Karan Deva Odedra",
+      "position": "Youth",
+      "icon": "face-man"
+    },
+    {
+      "name": "Kishor Devshi Karavadra",
+      "position": "Sports / Maintenance",
+      "icon": "face-man"
+    },
+    {
+      "name": "Lakhanbhai R Karavadra",
+      "position": "Youth / Maintenance",
+      "icon": "face-man"
+    },
+    {
+      "name": "Lakhansi Karshan Khunti",
+      "position": "Maintenance",
+      "icon": "face-man"
+    },
+    {
+      "name": "Niraj Vinod Modhwadia",
+      "position": "Car Park",
+      "icon": "face-man"
+    },
+    {
+      "name": "Pratap Arjan Keshwala",
+      "position": "Car Park",
+      "icon": "face-man"
+    },
+    {
+      "name": "Ram Modhwadia",
+      "position": "Culture",
+      "icon": "face-man"
+    },
+    {
+      "name": "Rambhai Rajshi Modhwadia",
+      "position": "Events",
+      "icon": "face-man"
+    }
+  ],
+  "holdingTrustees": [
+    {
+      "name": "Arjan Hardas Keshwala",
+      "position": "Holding Trustee",
+      "icon": "face-man"
+    },
+    {
+      "name": "Devshi Arjan Odedra",
+      "position": "Holding Trustee",
+      "icon": "face-man"
+    },
+    {
+      "name": "Arjun Atul Odedra",
+      "position": "Holding Trustee",
+      "icon": "face-man"
+    },
+    {
+      "name": "Laxman Parbat Modhvadiya",
+      "position": "Holding Trustee",
+      "icon": "face-man"
+    },
+    {
+      "name": "Nagajun Rambhai Odedra",
+      "position": "Holding Trustee",
+      "icon": "face-man"
+    }
+  ]
 }
