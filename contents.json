@@ -1,411 +1,735 @@
 {
-   "pages":{
-      "home":{
-         "heading":"Leicester Maher\n Community Association",
-         "subheading":"Digitally connecting the Maher Community",
-         "content":"Maher Community Association (UK) was founded to unite the Maher Community and promote and preserve our culture, heritage, language, and social awareness.\n\nOur community is built on a strong foundation due to the hard work and dedication of our past and present committee members, board of trustees, and volunteers, as well as the ongoing support from our local community.\n\nThe community organises numerous events, such as Beej, Ram Navami, Holi, Janmashtami, Navratri, Diwali, Christmas, and New Year.\n\nThrough these commitments, our goal remains the same: to invest in the next generation—our youth, who will proudly continue to carry our heritage.\n\nAs we enter the new era, we want to encourage our community to embrace new services and new technology and build a platform for our youth to participate with excitement and enthusiasm.\n\nWe encourage each Maher family to engage by becoming a member, participating in our activities, and helping us grow to build a stronger community."
-      },
-      "donations":{
-         "heading":"Donate to LMCA",
-         "subheading":"Your donations will make a difference",
-         "amount":"Donation Amount (in GBP)",
-         "button":"Donate Now"
-      },
-      "news":{
-         "heading":"News",
-         "subheading":"Latest LMCA news, MCA news, death notifications, religious announcements etc."
-      },
-      "events":{
-         "heading":"Events",
-         "subheading":"Latest LMCA events, MCA events, religious notifications, cultural announcements etc."
-      },
-      "inquiry":{
-         "heading":"Inquiry",
-         "subheading":"Inquiries for centre hire, sports events, religious activities, cultural classes, etc.",
-         "name":"Name *",
-         "phoneNumber":"Phone Number *",
-         "emailAddress":"Email Address *",
-         "subject":"Subject *",
-         "message":"Message *",
-         "button":"Send",
-         "missingField":"Name, Subject, Phone Number, Email Address & Message can not be empty",
-         "invalidEmailAddress":"The entered email address is invalid; please enter a valid one",
-         "successMsg":"Thank you for sending your inquiry to LMCA"
-      },
-      "activity":{
-         "heading":"Activity",
-         "subheading":"Frequent activities organised by Maher Centre."
-      },
-      "feedback":{
-         "heading":"Feedback",
-         "subheading":"Help Us Improve",
-         "text":"We value your feedback. Please share your thoughts about our Community Events, Committee, and App. What is good? What could be better? Your ideas can make a difference.",
-         "name":"Name *",
-         "subjects":[
-            {
-               "label":"LMCA Community Events",
-               "value":"LMCA Community Events"
-            },
-            {
-               "label":"LMCA Committee",
-               "value":"LMCA Committee"
-            },
-            {
-               "label":"LMCA App",
-               "value":"LMCA App"
-            },
-            {
-               "label":"Others",
-               "value":"Others"
-            }
-         ],
-         "phoneNumber":"Phone Number *",
-         "emailAddress":"Email Address *",
-         "message":"Message *",
-         "button":"Send",
-         "missingField":"Name, Subject, Phone Number, Email Address or Message can not be empty",
-         "invalidEmailAddress":"The entered email address is invalid; please enter a valid one",
-         "successMsg":"Thank you for sending your feedback to LMCA"
-      },
-      "details":{
-         "subject":"Request to join",
-         "postsWithoutButton":[
-            4305
-         ],
-         "messagePartOne":"I would like to request to join",
-         "messagePartTwo":"Could a member of the group please contact me to discuss this further? Thank you.",
-         "button":"Request to Join"
-      },
-      "faq":{
-         "heading":"FAQ",
-         "subheading":"List of questions and answers intended to help with your queries."
-      },
-      "calendar":{
-         "heading":"LMCA Calendar",
-         "subject":"Inquiry for date:",
-         "datesAvailableMessage":"No bookings; this date is empty!",
-         "datesNotMessage":"Selected date is not available,\n please select another date!",
-         "messagePartOne":"I would like to make an inquiry for",
-         "messagePartTwo":"Could a member of the LMCA committee please contact me to discuss this further? Thank you."
-      },
-      "contact":{
-         "heading":"Contact",
-         "name":"Maher Community Association",
-         "address":"15 Ravensbridge Drive,\n Leicester,\n LE4 0BZ",
-         "phone":"0116 242 5360",
-         "email":"info@mahercommunity.org",
-         "website":"www.mahercommunity.org"
-      },
-      "request":{
-         "heading":"Request Forms",
-         "subheading":"All of the request/register forms are used by Maher Centre.",
-         "forms":[
-            {
-               "title":"Maher Girl Raas Register",
-               "subtitle":"Register your attendance",
-               "url":"https://forms.gle/b4eynKfrTD1xUy3g9"
-            },
-            {
-               "title":"Maher Community Business Directory Register",
-               "subtitle":"Register your business",
-               "url":"https://forms.gle/bXP8LCBHSp5PAwgF6"
-            },
-            {
-               "title":"Maher Junior Cricket Coaching Register",
-               "subtitle":"Register your attendance",
-               "url":"https://forms.gle/eXFMReidFobKqvuL7"
-            },
-            {
-               "title":"Maher Badminton Tournament 2025 Register",
-               "subtitle":"Register your attendance",
-               "url":"https://forms.gle/9WYqVTihDmUFUceZ9"
-            }
-         ]
-      },
-      "surnames":{
-         "heading":"Surnames",
-         "text":"Surnames are very important in the Maher community, and each surname has a long and distinctive history.\n\nOur Maher community has 14 main surnames: Keshwala, Sisodia, Rajsakha, Odedra, Jadeja, Solanki, Parmar, Vadher, Vada, Chavda, Chohan, Vadar, Pathiar, and Vagh.\n\nSeveral sub-surnames exist within these main surnames. Here is the list of full surnames and sub-surnames known as the 'Bhaiyatas' brotherhood.",
-         "surnames":[
-            {
-               "surname":"Keshwala",
-               "bhaiyat":"Antrolia, Bheynia, Ratadia, Butta, Erda, Bagordara",
-               "gotra":"Kashyap",
-               "vansh":"Suryavanshi",
-               "ishtadev":"Ramchandra",
-               "kuldevi":"Khodiyar Mataji / Shri Vindhyavasini Aai",
-               "gor":"Girnara Brahmin",
-               "barot":"Sonrat"
-            },
-            {
-               "surname":"Sisodia",
-               "bhaiyat":"Modhwadia, Kuchhadia, Khistriya, Godhania, Ranavaya, Hadadiya, Pashtariya",
-               "gotra":"Kashyap",
-               "vansh":"Suryavanshi",
-               "ishtadev":"Ramchandra",
-               "kuldevi":"Shri Vindhyavasini Aai / Shri Chamundai / Shri Gatran Aai / Shri Sikotar Aai",
-               "gor":"Thanki Brahmin",
-               "barot":"Rehnuka"
-            },
-            {
-               "surname":"Rajsakha",
-               "bhaiyat":"Karavadra, Khunti, Tilak, Gorania, Chundavadra, Jethwa, Surya, Jog, Modedra, Selot, Selar, Pariya, Bhosiya, Bokhiria",
-               "gotra":"Aashtang",
-               "vansh":"Suryavanshi",
-               "ishtadev":"Shri Hanumanji",
-               "kuldevi":"Shri Vindhyavasini Aai / Shri Chamundai",
-               "gor":"Joshi Brahmin",
-               "barot":"Brahbhat"
-            },
-            {
-               "surname":"Odedra",
-               "bhaiyat":"Visana, Ji, Okhai, Tukadiya",
-               "gotra":"Kashyap",
-               "vansh":"Chandravanshi",
-               "ishtadev":"Gorakhnath Vacharadada, Patha Pir",
-               "kuldevi":"Shri Sikoter Mataji / Chamunda/ Balvi",
-               "gor":"Joshi Brahmin",
-               "barot":"Sonrat"
-            },
-            {
-               "surname":"Jadeja",
-               "bhaiyat":"Kadchha, Ratiya, Tarkhala, Kadegiya, Pipraniya, Mekhadiya, Kulranmiya",
-               "gotra":"Atri Samved",
-               "vansh":"Chandravanshi",
-               "ishtadev":"Ashapuri",
-               "kuldevi":"Ambaji /  Kandhali Aai / Ashapura Ma",
-               "gor":"Girnara Brahmin",
-               "barot":"Lagdhir"
-            },
-            {
-               "surname":"Vaghela",
-               "bhaiyat":"Solanki, Timba, Samja, Vadaliya, Jakhniya, Bhanvadiya, Chabhhad, Divraniya, Bhogesra, Juneja, Gariyana, Sida, Chhaya",
-               "gotra":"Atri",
-               "vansh":"Agnivanshi",
-               "ishtadev":"Vacharadada",
-               "kuldevi":"Shri Shikoter Mataji",
-               "gor":"Joshi Brahmin",
-               "barot":"Brahbhat"
-            },
-            {
-               "surname":"Parmar",
-               "bhaiyat":"Mahiyaria, Chatraviya, Liboriya, Kahaliya, Kotadiya, Jilaniya, Mosa, Mandera, Pata, Gorsera, Badeja, Chandela",
-               "gotra":"Gautam Rushi",
-               "vansh":"Agnivanshi",
-               "ishtadev":"",
-               "kuldevi":"Simiyar - Mandvari / Shri Maha Kali / Shri Mandavadi Aai",
-               "gor":"Girnara Brahmin",
-               "barot":"Sonrat"
-            },
-            {
-               "surname":"Vadher",
-               "bhaiyat":"Sharma, Sutreja, Sindhal, Padodariya, Chandesha, Dasa, Pandavadariya, Chanrodariya, Mahikya",
-               "gotra":"Kashyap",
-               "vansh":"Suryavanshi",
-               "ishtadev":"",
-               "kuldevi":"Shri Khodiyar Aai / Shri Gatran Aai",
-               "gor":"Girnara Brahmin",
-               "barot":"Sonrat"
-            },
-            {
-               "surname":"Vada",
-               "bhaiyat":"Muliyashiya, Khimdaniya, Bapodra-(Mashani) Amar, Agath, Mihikiya, Timmasiya, Bhetakiya",
-               "gotra":"Kashyap",
-               "vansh":"Suryavanshi",
-               "ishtadev":"",
-               "kuldevi":"Visant Mataji / Shri Vindhyavasini Aai / Chamunda Mataji / Vihot Mataji",
-               "gor":"Joshi Brahmin",
-               "barot":"Brahbhat"
-            },
-            {
-               "surname":"Chavda",
-               "bhaiyat":"Navadiya, Kothvada, Kothadiya, Padorodiya, Kodvara",
-               "gotra":"Kashyap",
-               "vansh":"Suryavanshi",
-               "ishtadev":"",
-               "kuldevi":"Shri Shikoter Mataji",
-               "gor":"Joshi Brahmin",
-               "barot":"Brahbhat"
-            },
-            {
-               "surname":"Chauhan",
-               "bhaiyat":"Gareja",
-               "gotra":"",
-               "vansh":"Agnivashi",
-               "ishtadev":"",
-               "kuldevi":"Shapurna Mataji / Shri Chamuda Mataji",
-               "gor":"Joshi Brahmin",
-               "barot":"Brahbhat"
-            },
-            {
-               "surname":"Vadar",
-               "bhaiyat":"Nandaniya, Nakura, Badhsa, Hilla, Jasiya, Bamaniya",
-               "gotra":"",
-               "vansh":"Chandravanshi",
-               "ishtadev":"",
-               "kuldevi":"Shri Chamuda Mataji",
-               "gor":"Joshi Brahmin",
-               "barot":"Brahbhat"
-            },
-            {
-               "surname":"Parihar",
-               "bhaiyat":"Thapaliya",
-               "gotra":"",
-               "vansh":"Agnivashi",
-               "ishtadev":"",
-               "kuldevi":"Shri Chamuda Mataji",
-               "gor":"Joshi Brahmin",
-               "barot":"Sonrat"
-            },
-            {
-               "surname":"Vagh",
-               "bhaiyat":"Bhalejia, Gorejiya",
-               "gotra":"Atri",
-               "vansh":"Chandravanshi",
-               "ishtadev":"",
-               "kuldevi":"Shri Amba Mataji / Shri Khodiyar Mataji",
-               "gor":"Joshi Brahmin",
-               "barot":"Sonrat"
-            },
-            {
-               "surname":"Bhati",
-               "bhaiyat":"Bhutiya",
-               "gotra":"Atri",
-               "vansh":"Chandravanshi",
-               "ishtadev":"",
-               "kuldevi":"Shri Vindhyavasini Aai",
-               "gor":"Joshi Brahmin",
-               "barot":"Brahbhat"
-            }
-         ]
-      }
-   },
-   "committeeMembers":[
-      {
-         "name":"Sanjay Karavadra",
-         "position":"President",
-         "icon":"face-man"
-      },
-      {
-         "name":"Parbat Keshav Sanga",
-         "position":"Vice President",
-         "icon":"face-man"
-      },
-      {
-         "name":"Chetna Pratap Ranavaya",
-         "position":"Treasurer / Culture",
-         "icon":"face-woman"
-      },
-      {
-         "name":"Harish Sajan Keshwala",
-         "position":"Vice Treasurer",
-         "icon":"face-man"
-      },
-      {
-         "name":"Bharat Arjan Keshwala",
-         "position":"Secretary",
-         "icon":"face-man"
-      },
-      {
-         "name":"Davan Karsan Modhwadia",
-         "position":"Vice Secretary",
-         "icon":"face-man"
-      },
-      {
-         "name":"Nikhil Malde Keshwala",
-         "position":"Sports / Technology",
-         "icon":"face-man"
-      },
-      {
-         "name":"Akash Nagaji Odedra",
-         "position":"Youth",
-         "icon":"face-man"
-      },
-      {
-         "name":"Ashok Bhura Karavadra",
-         "position":"Events",
-         "icon":"face-man"
-      },
-      {
-         "name":"Atul Parbat Modhvadiya",
-         "position":"Events",
-         "icon":"face-man"
-      },
-      {
-         "name":"Bhanu Ramde Goraniya",
-         "position":"Culture",
-         "icon":"face-woman"
-      },
-      {
-         "name":"Hitesh Kana Godhaniya",
-         "position":"Sports / Culture",
-         "icon":"face-man"
-      },
-      {
-         "name":"Karan Deva Odedra",
-         "position":"Youth",
-         "icon":"face-man"
-      },
-      {
-         "name":"Kishor Devshi Karavadra",
-         "position":"Sports / Maintenance",
-         "icon":"face-man"
-      },
-      {
-         "name":"Lakhanbhai R Karavadra",
-         "position":"Youth / Maintenance",
-         "icon":"face-man"
-      },
-      {
-         "name":"Lakhansi Karshan Khunti",
-         "position":"Maintenance",
-         "icon":"face-man"
-      },
-      {
-         "name":"Niraj Vinod Modhwadia",
-         "position":"Car Park",
-         "icon":"face-man"
-      },
-      {
-         "name":"Pratap Arjan Keshwala",
-         "position":"Car Park",
-         "icon":"face-man"
-      },
-      {
-         "name":"Ram Modhwadia",
-         "position":"Culture",
-         "icon":"face-man"
-      },
-      {
-         "name":"Rambhai Rajshi Modhwadia",
-         "position":"Events",
-         "icon":"face-man"
-      }
-   ],
-   "holdingTrustees":[
-      {
-         "name":"Arjan Hardas Keshwala",
-         "position":"Holding Trustee",
-         "icon":"face-man"
-      },
-      {
-         "name":"Devshi Arjan Odedra",
-         "position":"Holding Trustee",
-         "icon":"face-man"
-      },
-      {
-         "name":"Arjun Atul Odedra",
-         "position":"Holding Trustee",
-         "icon":"face-man"
-      },
-      {
-         "name":"Laxman Parbat Modhvadiya",
-         "position":"Holding Trustee",
-         "icon":"face-man"
-      },
-      {
-         "name":"Nagajun Rambhai Odedra",
-         "position":"Holding Trustee",
-         "icon":"face-man"
-      }
-   ]
+  "pages": {
+    "home": {
+      "heading": "Leicester Maher\n Community Association",
+      "subheading": "Digitally connecting the Maher Community",
+      "content": "Maher Community Association (UK) was founded to unite the Maher Community and promote and preserve our culture, heritage, language, and social awareness.\n\nOur community is built on a strong foundation due to the hard work and dedication of our past and present committee members, board of trustees, and volunteers, as well as the ongoing support from our local community.\n\nThe community organises numerous events, such as Beej, Ram Navami, Holi, Janmashtami, Navratri, Diwali, Christmas, and New Year.\n\nThrough these commitments, our goal remains the same: to invest in the next generation—our youth, who will proudly continue to carry our heritage.\n\nAs we enter the new era, we want to encourage our community to embrace new services and new technology and build a platform for our youth to participate with excitement and enthusiasm.\n\nWe encourage each Maher family to engage by becoming a member, participating in our activities, and helping us grow to build a stronger community."
+    },
+    "donations": {
+      "heading": "Donate to LMCA",
+      "subheading": "Your donations will make a difference",
+      "amount": "Donation Amount (in GBP)",
+      "button": "Donate Now"
+    },
+    "news": {
+      "heading": "News",
+      "subheading": "Latest LMCA news, MCA news, death notifications, religious announcements etc."
+    },
+    "events": {
+      "heading": "Events",
+      "subheading": "Latest LMCA events, MCA events, religious notifications, cultural announcements etc."
+    },
+    "inquiry": {
+      "heading": "Inquiry",
+      "subheading": "Inquiries for centre hire, sports events, religious activities, cultural classes, etc.",
+      "name": "Name *",
+      "phoneNumber": "Phone Number *",
+      "emailAddress": "Email Address *",
+      "subject": "Subject *",
+      "message": "Message *",
+      "button": "Send",
+      "missingField": "Name, Subject, Phone Number, Email Address & Message can not be empty",
+      "invalidEmailAddress": "The entered email address is invalid; please enter a valid one",
+      "successMsg": "Thank you for sending your inquiry to LMCA"
+    },
+    "activity": {
+      "heading": "Activity",
+      "subheading": "Frequent activities organised by Maher Centre."
+    },
+    "feedback": {
+      "heading": "Feedback",
+      "subheading": "Help Us Improve",
+      "text": "We value your feedback. Please share your thoughts about our Community Events, Committee, and App. What is good? What could be better? Your ideas can make a difference.",
+      "name": "Name *",
+      "subjects": [
+        {
+          "label": "LMCA Community Events",
+          "value": "LMCA Community Events"
+        },
+        {
+          "label": "LMCA Committee",
+          "value": "LMCA Committee"
+        },
+        {
+          "label": "LMCA App",
+          "value": "LMCA App"
+        },
+        {
+          "label": "Others",
+          "value": "Others"
+        }
+      ],
+      "phoneNumber": "Phone Number *",
+      "emailAddress": "Email Address *",
+      "message": "Message *",
+      "button": "Send",
+      "missingField": "Name, Subject, Phone Number, Email Address or Message can not be empty",
+      "invalidEmailAddress": "The entered email address is invalid; please enter a valid one",
+      "successMsg": "Thank you for sending your feedback to LMCA"
+    },
+    "details": {
+      "subject": "Request to join",
+      "postsWithoutButton": [4305],
+      "messagePartOne": "I would like to request to join",
+      "messagePartTwo": "Could a member of the group please contact me to discuss this further? Thank you.",
+      "button": "Request to Join"
+    },
+    "faq": {
+      "heading": "FAQ",
+      "subheading": "List of questions and answers intended to help with your queries."
+    },
+    "calendar": {
+      "heading": "LMCA Calendar",
+      "subject": "Inquiry for date:",
+      "datesAvailableMessage": "No bookings; this date is empty!",
+      "datesNotMessage": "Selected date is not available,\n please select another date!",
+      "messagePartOne": "I would like to make an inquiry for",
+      "messagePartTwo": "Could a member of the LMCA committee please contact me to discuss this further? Thank you."
+    },
+    "contact": {
+      "heading": "Contact",
+      "name": "Maher Community Association",
+      "address": "15 Ravensbridge Drive,\n Leicester,\n LE4 0BZ",
+      "phone": "0116 242 5360",
+      "email": "info@mahercommunity.org",
+      "website": "www.mahercommunity.org"
+    },
+    "request": {
+      "heading": "Request Forms",
+      "subheading": "All of the request/register forms are used by Maher Centre.",
+      "forms": [
+        {
+          "title": "Maher Girl Raas Register",
+          "subtitle": "Register your attendance",
+          "url": "https://forms.gle/b4eynKfrTD1xUy3g9"
+        },
+        {
+          "title": "Maher Community Business Directory Register",
+          "subtitle": "Register your business",
+          "url": "https://forms.gle/bXP8LCBHSp5PAwgF6"
+        },
+        {
+          "title": "Maher Junior Cricket Coaching Register",
+          "subtitle": "Register your attendance",
+          "url": "https://forms.gle/eXFMReidFobKqvuL7"
+        },
+        {
+          "title": "Maher Badminton Tournament 2025 Register",
+          "subtitle": "Register your attendance",
+          "url": "https://forms.gle/9WYqVTihDmUFUceZ9"
+        }
+      ]
+    },
+    "surnames": {
+      "heading": "Surnames",
+      "text": "Surnames are very important in the Maher community, and each surname has a long and distinctive history.\n\nOur Maher community has 14 main surnames: Keshwala, Sisodia, Rajsakha, Odedra, Jadeja, Solanki, Parmar, Vadher, Vada, Chavda, Chohan, Vadar, Pathiar, and Vagh.\n\nSeveral sub-surnames exist within these main surnames. Here is the list of full surnames and sub-surnames known as the 'Bhaiyatas' brotherhood.",
+      "surnames": [
+        {
+          "surname": "Keshwala",
+          "bhaiyat": "Antrolia, Bheynia, Ratadia, Butta, Erda, Bagordara",
+          "gotra": "Kashyap",
+          "vansh": "Suryavanshi",
+          "ishtadev": "Ramchandra",
+          "kuldevi": "Khodiyar Mataji / Shri Vindhyavasini Aai",
+          "gor": "Girnara Brahmin",
+          "barot": "Sonrat"
+        },
+        {
+          "surname": "Sisodia",
+          "bhaiyat": "Modhwadia, Kuchhadia, Khistriya, Godhania, Ranavaya, Hadadiya, Pashtariya",
+          "gotra": "Kashyap",
+          "vansh": "Suryavanshi",
+          "ishtadev": "Ramchandra",
+          "kuldevi": "Shri Vindhyavasini Aai / Shri Chamundai / Shri Gatran Aai / Shri Sikotar Aai",
+          "gor": "Thanki Brahmin",
+          "barot": "Rehnuka"
+        },
+        {
+          "surname": "Rajsakha",
+          "bhaiyat": "Karavadra, Khunti, Tilak, Gorania, Chundavadra, Jethwa, Surya, Jog, Modedra, Selot, Selar, Pariya, Bhosiya, Bokhiria",
+          "gotra": "Aashtang",
+          "vansh": "Suryavanshi",
+          "ishtadev": "Shri Hanumanji",
+          "kuldevi": "Shri Vindhyavasini Aai / Shri Chamundai",
+          "gor": "Joshi Brahmin",
+          "barot": "Brahbhat"
+        },
+        {
+          "surname": "Odedra",
+          "bhaiyat": "Visana, Ji, Okhai, Tukadiya",
+          "gotra": "Kashyap",
+          "vansh": "Chandravanshi",
+          "ishtadev": "Gorakhnath Vacharadada, Patha Pir",
+          "kuldevi": "Shri Sikoter Mataji / Chamunda/ Balvi",
+          "gor": "Joshi Brahmin",
+          "barot": "Sonrat"
+        },
+        {
+          "surname": "Jadeja",
+          "bhaiyat": "Kadchha, Ratiya, Tarkhala, Kadegiya, Pipraniya, Mekhadiya, Kulranmiya",
+          "gotra": "Atri Samved",
+          "vansh": "Chandravanshi",
+          "ishtadev": "Ashapuri",
+          "kuldevi": "Ambaji /  Kandhali Aai / Ashapura Ma",
+          "gor": "Girnara Brahmin",
+          "barot": "Lagdhir"
+        },
+        {
+          "surname": "Vaghela",
+          "bhaiyat": "Solanki, Timba, Samja, Vadaliya, Jakhniya, Bhanvadiya, Chabhhad, Divraniya, Bhogesra, Juneja, Gariyana, Sida, Chhaya",
+          "gotra": "Atri",
+          "vansh": "Agnivanshi",
+          "ishtadev": "Vacharadada",
+          "kuldevi": "Shri Shikoter Mataji",
+          "gor": "Joshi Brahmin",
+          "barot": "Brahbhat"
+        },
+        {
+          "surname": "Parmar",
+          "bhaiyat": "Mahiyaria, Chatraviya, Liboriya, Kahaliya, Kotadiya, Jilaniya, Mosa, Mandera, Pata, Gorsera, Badeja, Chandela",
+          "gotra": "Gautam Rushi",
+          "vansh": "Agnivanshi",
+          "ishtadev": "",
+          "kuldevi": "Simiyar - Mandvari / Shri Maha Kali / Shri Mandavadi Aai",
+          "gor": "Girnara Brahmin",
+          "barot": "Sonrat"
+        },
+        {
+          "surname": "Vadher",
+          "bhaiyat": "Sharma, Sutreja, Sindhal, Padodariya, Chandesha, Dasa, Pandavadariya, Chanrodariya, Mahikya",
+          "gotra": "Kashyap",
+          "vansh": "Suryavanshi",
+          "ishtadev": "",
+          "kuldevi": "Shri Khodiyar Aai / Shri Gatran Aai",
+          "gor": "Girnara Brahmin",
+          "barot": "Sonrat"
+        },
+        {
+          "surname": "Vada",
+          "bhaiyat": "Muliyashiya, Khimdaniya, Bapodra-(Mashani) Amar, Agath, Mihikiya, Timmasiya, Bhetakiya",
+          "gotra": "Kashyap",
+          "vansh": "Suryavanshi",
+          "ishtadev": "",
+          "kuldevi": "Visant Mataji / Shri Vindhyavasini Aai / Chamunda Mataji / Vihot Mataji",
+          "gor": "Joshi Brahmin",
+          "barot": "Brahbhat"
+        },
+        {
+          "surname": "Chavda",
+          "bhaiyat": "Navadiya, Kothvada, Kothadiya, Padorodiya, Kodvara",
+          "gotra": "Kashyap",
+          "vansh": "Suryavanshi",
+          "ishtadev": "",
+          "kuldevi": "Shri Shikoter Mataji",
+          "gor": "Joshi Brahmin",
+          "barot": "Brahbhat"
+        },
+        {
+          "surname": "Chauhan",
+          "bhaiyat": "Gareja",
+          "gotra": "",
+          "vansh": "Agnivashi",
+          "ishtadev": "",
+          "kuldevi": "Shapurna Mataji / Shri Chamuda Mataji",
+          "gor": "Joshi Brahmin",
+          "barot": "Brahbhat"
+        },
+        {
+          "surname": "Vadar",
+          "bhaiyat": "Nandaniya, Nakura, Badhsa, Hilla, Jasiya, Bamaniya",
+          "gotra": "",
+          "vansh": "Chandravanshi",
+          "ishtadev": "",
+          "kuldevi": "Shri Chamuda Mataji",
+          "gor": "Joshi Brahmin",
+          "barot": "Brahbhat"
+        },
+        {
+          "surname": "Parihar",
+          "bhaiyat": "Thapaliya",
+          "gotra": "",
+          "vansh": "Agnivashi",
+          "ishtadev": "",
+          "kuldevi": "Shri Chamuda Mataji",
+          "gor": "Joshi Brahmin",
+          "barot": "Sonrat"
+        },
+        {
+          "surname": "Vagh",
+          "bhaiyat": "Bhalejia, Gorejiya",
+          "gotra": "Atri",
+          "vansh": "Chandravanshi",
+          "ishtadev": "",
+          "kuldevi": "Shri Amba Mataji / Shri Khodiyar Mataji",
+          "gor": "Joshi Brahmin",
+          "barot": "Sonrat"
+        },
+        {
+          "surname": "Bhati",
+          "bhaiyat": "Bhutiya",
+          "gotra": "Atri",
+          "vansh": "Chandravanshi",
+          "ishtadev": "",
+          "kuldevi": "Shri Vindhyavasini Aai",
+          "gor": "Joshi Brahmin",
+          "barot": "Brahbhat"
+        }
+      ]
+    }
+  },
+  "committeeMembers": [
+    {
+      "name": "Sanjay Karavadra",
+      "position": "President",
+      "icon": "face-man"
+    },
+    {
+      "name": "Parbat Keshav Sanga",
+      "position": "Vice President",
+      "icon": "face-man"
+    },
+    {
+      "name": "Chetna Pratap Ranavaya",
+      "position": "Treasurer / Culture",
+      "icon": "face-woman"
+    },
+    {
+      "name": "Harish Sajan Keshwala",
+      "position": "Vice Treasurer",
+      "icon": "face-man"
+    },
+    {
+      "name": "Bharat Arjan Keshwala",
+      "position": "Secretary",
+      "icon": "face-man"
+    },
+    {
+      "name": "Davan Karsan Modhwadia",
+      "position": "Vice Secretary",
+      "icon": "face-man"
+    },
+    {
+      "name": "Nikhil Malde Keshwala",
+      "position": "Sports / Technology",
+      "icon": "face-man"
+    },
+    {
+      "name": "Akash Nagaji Odedra",
+      "position": "Youth",
+      "icon": "face-man"
+    },
+    {
+      "name": "Ashok Bhura Karavadra",
+      "position": "Events",
+      "icon": "face-man"
+    },
+    {
+      "name": "Atul Parbat Modhvadiya",
+      "position": "Events",
+      "icon": "face-man"
+    },
+    {
+      "name": "Bhanu Ramde Goraniya",
+      "position": "Culture",
+      "icon": "face-woman"
+    },
+    {
+      "name": "Hitesh Kana Godhaniya",
+      "position": "Sports / Culture",
+      "icon": "face-man"
+    },
+    {
+      "name": "Karan Deva Odedra",
+      "position": "Youth",
+      "icon": "face-man"
+    },
+    {
+      "name": "Kishor Devshi Karavadra",
+      "position": "Sports / Maintenance",
+      "icon": "face-man"
+    },
+    {
+      "name": "Lakhanbhai R Karavadra",
+      "position": "Youth / Maintenance",
+      "icon": "face-man"
+    },
+    {
+      "name": "Lakhansi Karshan Khunti",
+      "position": "Maintenance",
+      "icon": "face-man"
+    },
+    {
+      "name": "Niraj Vinod Modhwadia",
+      "position": "Car Park",
+      "icon": "face-man"
+    },
+    {
+      "name": "Pratap Arjan Keshwala",
+      "position": "Car Park",
+      "icon": "face-man"
+    },
+    {
+      "name": "Ram Modhwadia",
+      "position": "Culture",
+      "icon": "face-man"
+    },
+    {
+      "name": "Rambhai Rajshi Modhwadia",
+      "position": "Events",
+      "icon": "face-man"
+    }
+  ],
+  "holdingTrustees": [
+    {
+      "name": "Arjan Hardas Keshwala",
+      "position": "Holding Trustee",
+      "icon": "face-man"
+    },
+    {
+      "name": "Devshi Arjan Odedra",
+      "position": "Holding Trustee",
+      "icon": "face-man"
+    },
+    {
+      "name": "Arjun Atul Odedra",
+      "position": "Holding Trustee",
+      "icon": "face-man"
+    },
+    {
+      "name": "Laxman Parbat Modhvadiya",
+      "position": "Holding Trustee",
+      "icon": "face-man"
+    },
+    {
+      "name": "Nagajun Rambhai Odedra",
+      "position": "Holding Trustee",
+      "icon": "face-man"
+    }
+  ],
+  "dropdownOptions": {
+    "village": [
+      { "label": "Fatana", "value": "Fatana" },
+      { "label": "Visavada", "value": "Visavada" },
+      { "label": "Modhvada", "value": "Modhvada" },
+      { "label": "Porbandar", "value": "Porbandar" },
+      { "label": "Ordar", "value": "Ordar" },
+      { "label": "Bagvadar", "value": "Bagvadar" },
+      { "label": "Khambhodar", "value": "Khambhodar" },
+      { "label": "Sisli", "value": "Sisli" },
+      { "label": "Sodhana", "value": "Sodhana" },
+      { "label": "Advana", "value": "Advana" },
+      { "label": "Vadara", "value": "Vadara" },
+      { "label": "Chandravada", "value": "Chandravada" },
+      { "label": "Khuchdi", "value": "Khuchdi" },
+      { "label": "Beran", "value": "Beran" },
+      { "label": "Raval", "value": "Raval" },
+      { "label": "Rana Kandorna", "value": "Rana Kandorna" },
+      { "label": "Jamnagar ", "value": "Jamnagar " },
+      { "label": "Junagadh", "value": "Junagadh" },
+      { "label": "Ranavav", "value": "Ranavav" },
+      { "label": "Ratiya", "value": "Ratiya" },
+      { "label": "Bales", "value": "Bales" },
+      { "label": "Kadachh", "value": "Kadachh" },
+      { "label": "Gosa", "value": "Gosa" },
+      { "label": "Sunday", "value": "Sunday" },
+      { "label": "Ratanpar", "value": "Ratanpar" },
+      { "label": "Bokhira", "value": "Bokhira" },
+      { "label": "Degam", "value": "Degam" },
+      { "label": "Padavadar", "value": "Padavadar" },
+      { "label": "Bakharla", "value": "Bakharla" },
+      { "label": "Boricha", "value": "Boricha" },
+      { "label": "Bileshwar", "value": "Bileshwar" },
+      { "label": "Hanumangadh", "value": "Hanumangadh" },
+      { "label": "Ratdi", "value": "Ratdi" },
+      { "label": "Palakhda", "value": "Palakhda" },
+      { "label": "Miyani", "value": "Miyani" },
+      { "label": "Bhavpara", "value": "Bhavpara" },
+      { "label": "Hathyani", "value": "Hathyani" },
+      { "label": "Ambarama", "value": "Ambarama" },
+      { "label": "Keshav", "value": "Keshav" },
+      { "label": "Kinderkheda", "value": "Kinderkheda" },
+      { "label": "Bharwada", "value": "Bharwada" },
+      { "label": "Rinawada", "value": "Rinawada" },
+      { "label": "Simani", "value": "Simani" },
+      { "label": "Khistri", "value": "Khistri" },
+      { "label": "Katwana", "value": "Katwana" },
+      { "label": "Adityana ", "value": "Adityana " },
+      { "label": "Rojda", "value": "Rojda" },
+      { "label": "Hathla", "value": "Hathla" },
+      { "label": "Bhetakdi", "value": "Bhetakdi" },
+      { "label": "Ranparda ", "value": "Ranparda " },
+      { "label": "Dangarvad", "value": "Dangarvad" },
+      { "label": "Nagadiya", "value": "Nagadiya" },
+      { "label": "Rajapara", "value": "Rajapara" },
+      { "label": "Khirasara", "value": "Khirasara" },
+      { "label": "Kalyanpar", "value": "Kalyanpar" },
+      { "label": "Mithapur", "value": "Mithapur" },
+      { "label": "Vavdi", "value": "Vavdi" },
+      { "label": "Chhaya", "value": "Chhaya" },
+      { "label": "Dhank", "value": "Dhank" },
+      { "label": "Pipavav", "value": "Pipavav" },
+      { "label": "Khambhaliya", "value": "Khambhaliya" },
+      { "label": "Bhanvad", "value": "Bhanvad" },
+      { "label": "Malia", "value": "Malia" },
+      { "label": "Tankara", "value": "Tankara" },
+      { "label": "Morbi", "value": "Morbi" },
+      { "label": "Rajkot", "value": "Rajkot" },
+      { "label": "Lodhika", "value": "Lodhika" },
+      { "label": "Paddhari", "value": "Paddhari" },
+      { "label": "Kalavad", "value": "Kalavad" },
+      { "label": "Dhrol", "value": "Dhrol" },
+      { "label": "Jodiya", "value": "Jodiya" },
+      { "label": "Upleta", "value": "Upleta" },
+      { "label": "Dhoraji", "value": "Dhoraji" },
+      { "label": "Jetpur", "value": "Jetpur" },
+      { "label": "Chotila", "value": "Chotila" },
+      { "label": "Sutrapada", "value": "Sutrapada" },
+      { "label": "Kodinar", "value": "Kodinar" },
+      { "label": "Veraval", "value": "Veraval" },
+      { "label": "Talala", "value": "Talala" },
+      { "label": "Mangrol", "value": "Mangrol" },
+      { "label": "Amreli", "value": "Amreli" },
+      { "label": "Lathi", "value": "Lathi" },
+      { "label": "Savarkundla", "value": "Savarkundla" },
+      { "label": "Rajula", "value": "Rajula" },
+      { "label": "Jafrabad", "value": "Jafrabad" },
+      { "label": "Khambha", "value": "Khambha" },
+      { "label": "Gariadhar", "value": "Gariadhar" },
+      { "label": "Bagasara", "value": "Bagasara" },
+      { "label": "Dhari", "value": "Dhari" },
+      { "label": "Keshod", "value": "Keshod" },
+      { "label": "Mahuva", "value": "Mahuva" },
+      { "label": "Palanpur", "value": "Palanpur" },
+      { "label": "Deesa", "value": "Deesa" },
+      { "label": "Tharad", "value": "Tharad" },
+      { "label": "Dhanera", "value": "Dhanera" },
+      { "label": "Vadgam", "value": "Vadgam" },
+      { "label": "Kankrej", "value": "Kankrej" },
+      { "label": "Santalpur", "value": "Santalpur" },
+      { "label": "Dantiwada", "value": "Dantiwada" },
+      { "label": "Amirgadh", "value": "Amirgadh" },
+      { "label": "Vav", "value": "Vav" },
+      { "label": "Patan", "value": "Patan" },
+      { "label": "Sidhpur", "value": "Sidhpur" },
+      { "label": "Harij", "value": "Harij" },
+      { "label": "Radhanpur", "value": "Radhanpur" },
+      { "label": "Sami", "value": "Sami" },
+      { "label": "Kheralu", "value": "Kheralu" },
+      { "label": "Visnagar", "value": "Visnagar" },
+      { "label": "Mehsana", "value": "Mehsana" },
+      { "label": "Bileshwar", "value": "Bileshwar" },
+      { "label": "Khambhra", "value": "Khambhra" },
+      { "label": "Unjha", "value": "Unjha" },
+      { "label": "Kadi", "value": "Kadi" },
+      { "label": "Vadnagar", "value": "Vadnagar" },
+      { "label": "Gandhinagar", "value": "Gandhinagar" },
+      { "label": "Kalol", "value": "Kalol" },
+      { "label": "Mansa", "value": "Mansa" },
+      { "label": "Dehgam", "value": "Dehgam" },
+      { "label": "Ambaji", "value": "Ambaji" },
+      { "label": "Bhuj", "value": "Bhuj" },
+      { "label": "Anjar", "value": "Anjar" },
+      { "label": "Nakhatrana", "value": "Nakhatrana" },
+      { "label": "Mandvi", "value": "Mandvi" },
+      { "label": "Bhachau", "value": "Bhachau" },
+      { "label": "Rapar", "value": "Rapar" },
+      { "label": "Gandhidham", "value": "Gandhidham" },
+      { "label": "Jamnagar", "value": "Jamnagar" },
+      { "label": "Surendranagar", "value": "Surendranagar" },
+      { "label": "Bhavnagar", "value": "Bhavnagar" },
+      { "label": "Advana", "value": "Advana" },
+      { "label": "Ambarama", "value": "Ambarama" },
+      { "label": "Bagvadar", "value": "Bagvadar" },
+      { "label": "Bakharla", "value": "Bakharla" },
+      { "label": "Balej", "value": "Balej" },
+      { "label": "Baradiya", "value": "Baradiya" },
+      { "label": "Bavalvav", "value": "Bavalvav" },
+      { "label": "Beran", "value": "Beran" },
+      { "label": "Bhad", "value": "Bhad" },
+      { "label": "Bharvada", "value": "Bharvada" },
+      { "label": "Bhavpara", "value": "Bhavpara" },
+      { "label": "Bhetkadi", "value": "Bhetkadi" },
+      { "label": "Bhomiyavadar", "value": "Bhomiyavadar" },
+      { "label": "Boricha", "value": "Boricha" },
+      { "label": "Chhaya", "value": "Chhaya" },
+      { "label": "Chikasa", "value": "Chikasa" },
+      { "label": "Chingariya", "value": "Chingariya" },
+      { "label": "Degam", "value": "Degam" },
+      { "label": "Delodar", "value": "Delodar" },
+      { "label": "Erada", "value": "Erada" },
+      { "label": "Fatana", "value": "Fatana" },
+      { "label": "Garej", "value": "Garej" },
+      { "label": "Godhana", "value": "Godhana" },
+      { "label": "Gorsar", "value": "Gorsar" },
+      { "label": "Gosa", "value": "Gosa" },
+      { "label": "Ishvariya", "value": "Ishvariya" },
+      { "label": "Kadachh", "value": "Kadachh" },
+      { "label": "Kantela", "value": "Kantela" },
+      { "label": "Katvana", "value": "Katvana" },
+      { "label": "Keshav", "value": "Keshav" },
+      { "label": "Keshod", "value": "Keshod" },
+      { "label": "Khambhodar", "value": "Khambhodar" },
+      { "label": "Khistri", "value": "Khistri" },
+      { "label": "Kindar Kheda", "value": "Kindar Kheda" },
+      { "label": "Kolikhada", "value": "Kolikhada" },
+      { "label": "Kuchhdi", "value": "Kuchhdi" },
+      { "label": "Kunvadar", "value": "Kunvadar" },
+      { "label": "Madhavpur", "value": "Madhavpur" },
+      { "label": "Majivana", "value": "Majivana" },
+      { "label": "Mander", "value": "Mander" },
+      { "label": "Mitrala", "value": "Mitrala" },
+      { "label": "Miyani", "value": "Miyani" },
+      { "label": "Mocha", "value": "Mocha" },
+      { "label": "Modhvada", "value": "Modhvada" },
+      { "label": "Morana", "value": "Morana" },
+      { "label": "Nagka", "value": "Nagka" },
+      { "label": "Natvarnagar", "value": "Natvarnagar" },
+      { "label": "Navi Bandar", "value": "Navi Bandar" },
+      { "label": "Oddar", "value": "Oddar" },
+      { "label": "Palkhada", "value": "Palkhada" },
+      { "label": "Pandavadar", "value": "Pandavadar" },
+      { "label": "Paravada", "value": "Paravada" },
+      { "label": "Pata", "value": "Pata" },
+      { "label": "Rajpar", "value": "Rajpar" },
+      { "label": "Ratanpar", "value": "Ratanpar" },
+      { "label": "Ratdi", "value": "Ratdi" },
+      { "label": "Ratiya", "value": "Ratiya" },
+      { "label": "Rinavada", "value": "Rinavada" },
+      { "label": "Rojhivada", "value": "Rojhivada" },
+      { "label": "Sakhpur", "value": "Sakhpur" },
+      { "label": "Shingda", "value": "Shingda" },
+      { "label": "Shrinagar", "value": "Shrinagar" },
+      { "label": "Simani", "value": "Simani" },
+      { "label": "Simar", "value": "Simar" },
+      { "label": "Sinhjhar Nes", "value": "Sinhjhar Nes" },
+      { "label": "Sisli", "value": "Sisli" },
+      { "label": "Sodhana", "value": "Sodhana" },
+      { "label": "Tukda Gosa", "value": "Tukda Gosa" },
+      { "label": "Tukda Miyani", "value": "Tukda Miyani" },
+      { "label": "Untada", "value": "Untada" },
+      { "label": "Vachhoda", "value": "Vachhoda" },
+      { "label": "Vadala", "value": "Vadala" },
+      { "label": "Vinjhrana", "value": "Vinjhrana" },
+      { "label": "Visavada", "value": "Visavada" },
+      { "label": "Zaver", "value": "Zaver" },
+      { "label": "Khapat", "value": "Khapat" }
+    ],
+    "surname": [
+      { "label": "Keshwala", "value": "Keshwala" },
+      { "label": "Antrolia", "value": "Antrolia" },
+      { "label": "Bheynia", "value": "Bheynia" },
+      { "label": "Butta", "value": "Butta" },
+      { "label": "Erda", "value": "Erda" },
+      { "label": "Bagordara", "value": "Bagordara" },
+      { "label": "Sisodia", "value": "Sisodia" },
+      { "label": "Modhwadia", "value": "Modhwadia" },
+      { "label": "Kuchhadia", "value": "Kuchhadia" },
+      { "label": "Khistriya", "value": "Khistriya" },
+      { "label": "Godhania", "value": "Godhania" },
+      { "label": "Ranavaya", "value": "Ranavaya" },
+      { "label": "Hadadiya", "value": "Hadadiya" },
+      { "label": "Pashtariya", "value": "Pashtariya" },
+      { "label": "Rajsakha", "value": "Rajsakha" },
+      { "label": "Karavadra", "value": "Karavadra" },
+      { "label": "Khunti", "value": "Khunti" },
+      { "label": "Tilak", "value": "Tilak" },
+      { "label": "Gorania", "value": "Gorania" },
+      { "label": "Chundavadra", "value": "Chundavadra" },
+      { "label": "Jethwa", "value": "Jethwa" },
+      { "label": "Surya", "value": "Surya" },
+      { "label": "Jog", "value": "Jog" },
+      { "label": "Modedra", "value": "Modedra" },
+      { "label": "Selot", "value": "Selot" },
+      { "label": "Selar", "value": "Selar" },
+      { "label": "Pariya", "value": "Pariya" },
+      { "label": "Bhosiya", "value": "Bhosiya" },
+      { "label": "Bokhiria", "value": "Bokhiria" },
+      { "label": "Odedra", "value": "Odedra" },
+      { "label": "Visana", "value": "Visana" },
+      { "label": "Tukadiya", "value": "Tukadiya" },
+      { "label": "Jadeja", "value": "Jadeja" },
+      { "label": "Kadchha", "value": "Kadchha" },
+      { "label": "Ratiya", "value": "Ratiya" },
+      { "label": "Tarkhala", "value": "Tarkhala" },
+      { "label": "Kadegiya", "value": "Kadegiya" },
+      { "label": "Pipraniya", "value": "Pipraniya" },
+      { "label": "Mekhadiya", "value": "Mekhadiya" },
+      { "label": "Kulranmiya", "value": "Kulranmiya" },
+      { "label": "Vaghela", "value": "Vaghela" },
+      { "label": "Solanki", "value": "Solanki" },
+      { "label": "Timba", "value": "Timba" },
+      { "label": "Samja", "value": "Samja" },
+      { "label": "Vadaliya", "value": "Vadaliya" },
+      { "label": "Jakhniya", "value": "Jakhniya" },
+      { "label": "Bhanvadiya", "value": "Bhanvadiya" },
+      { "label": "Chabhhad", "value": "Chabhhad" },
+      { "label": "Divraniya", "value": "Divraniya" },
+      { "label": "Bhogesra", "value": "Bhogesra" },
+      { "label": "Juneja", "value": "Juneja" },
+      { "label": "Gariyana", "value": "Gariyana" },
+      { "label": "Sida", "value": "Sida" },
+      { "label": "Parmar", "value": "Parmar" },
+      { "label": "Mahiyaria", "value": "Mahiyaria" },
+      { "label": "Chatraviya", "value": "Chatraviya" },
+      { "label": "Liboriya", "value": "Liboriya" },
+      { "label": "Kahaliya", "value": "Kahaliya" },
+      { "label": "Kotadiya", "value": "Kotadiyaa" },
+      { "label": "Jilaniya", "value": "Jilaniya" },
+      { "label": "Mosa", "value": "Mosa" },
+      { "label": "Mandera", "value": "Mandera" },
+      { "label": "Pata", "value": "Pata" },
+      { "label": "Gorsera", "value": "Gorsera" },
+      { "label": "Badeja", "value": "Badeja" },
+      { "label": "Chandela", "value": "Chandela" },
+      { "label": "Vadher", "value": "Vadher" },
+      { "label": "Sharma", "value": "Sharma" },
+      { "label": "Sutreja", "value": "Sutreja" },
+      { "label": "Sindhal", "value": "Sindhal" },
+      { "label": "Padodariya", "value": "Padodariya" },
+      { "label": "Chandesha", "value": "Chandesha" },
+      { "label": "Dasa", "value": "Dasa" },
+      { "label": "Pandavadariya", "value": "Pandavadariya" },
+      { "label": "Chanrodariya", "value": "Chanrodariya" },
+      { "label": "Mahikya", "value": "Mahikya" },
+      { "label": "Vada", "value": "Vada" },
+      { "label": "Muliyashiya", "value": "Muliyashiya" },
+      { "label": "Khimdaniya", "value": "Khimdaniya" },
+      { "label": "Bapodra-(Mashani) Amar", "value": "Bapodra-(Mashani) Amar" },
+      { "label": "Agath", "value": "Agath" },
+      { "label": "Mihikiya", "value": "Mihikiya" },
+      { "label": "Timmasiya", "value": "Timmasiya" },
+      { "label": "Bhetakiya", "value": "Bhetakiya" },
+      { "label": "Chavda", "value": "Chavda" },
+      { "label": "Navadiya", "value": "Navadiya" },
+      { "label": "Kothvada", "value": "Kothadiya" },
+      { "label": "Kothadiya", "value": "Kothadiya" },
+      { "label": "Padorodiya", "value": "Padorodiya" },
+      { "label": "Kodvara", "value": "Kodvara" },
+      { "label": "Chauhan", "value": "Chauhan" },
+      { "label": "Gareja", "value": "Gareja" },
+      { "label": "Vadar", "value": "Vadar" },
+      { "label": "Nandaniya", "value": "Nandaniya" },
+      { "label": "Nakura", "value": "Nakura" },
+      { "label": "Badhsa", "value": "Badhsa" },
+      { "label": "Hilla", "value": "Hilla" },
+      { "label": "Jasiya", "value": "Jasiya" },
+      { "label": "Badhsa", "value": "Badhsa" },
+      { "label": "Bamaniya", "value": "Bamaniya" },
+      { "label": "Parihar", "value": "Parihar" },
+      { "label": "Thapaliya", "value": "Thapaliya" },
+      { "label": "Vagh", "value": "Vagh" },
+      { "label": "Bhalejia", "value": "Bhalejia" },
+      { "label": "Gorejiya", "value": "Gorejiya" },
+      { "label": "Bhati", "value": "Bhati" },
+      { "label": "Bhutiya", "value": "Bhutiya" }
+    ],
+    "verificationMethod": [
+      { "label": "Online (Sumsub)", "value": "sumsub" },
+      { "label": "Maher Centre", "value": "offline" }
+    ],
+    "gender": [
+      { "label": "Male", "value": "Male" },
+      { "label": "Female", "value": "Female" }
+    ]
+  }
 }
