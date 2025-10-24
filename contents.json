@@ -1,4 +1,10 @@
 {
+  "app": {
+    "ios": { "version": "2.0.0", "build": 17 },
+    "android": { "version": "2.0.0", "build": 23 },
+    "appStoreUrl": "https://apps.apple.com/gb/app/lmca-app/id6605920884",
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.lmca.app"
+  },
   "pages": {
     "home": {
       "heading": "Leicester Maher\n Community Association",
